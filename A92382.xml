@@ -1,0 +1,1405 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The relation of the unjust proceedings against Captaine Burley at VVinchester and of his magnanimous and Christian suffering.</title>
+         </titleStmt>
+         <extent>Approx. 87KB of XML-encoded text transcribed from 28 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92382</idno><idno type="EEBO-CITATION">99863350</idno>
+  <idno type="VID">115545</idno>
+  <idno type="EEBO-PROQUEST">2240958684</idno>
+  
+            <idno type="STC">Wing R884</idno>
+            <idno type="STC">Thomason E1182_9</idno>
+            <idno type="STC">ESTC R203382</idno>
+            <idno type="PROQUEST">99863350</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99863350e"/>
+            <note>(EEBO-TCP ; phase 2, no. A92382)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 115545)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 256:E1182[9])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The relation of the unjust proceedings against Captaine Burley at VVinchester and of his magnanimous and Christian suffering.</title>
+               </titleStmt>
+               <extent>[32], 23, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed anno Dom. 1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Partly in verse.</note>
+                  <note>Place of publication from Wing.</note>
+                  <note>Annotation on Thomason copy: "may. 3d".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Burley, John, d. 1648 --  Trials, litigation, etc. --  Early works to 1800.</term>
+               <term type="topical_term">Treason --  England --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Poetry --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Olivia Bottum </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:115545:1"/>
+            <p>THE RELATION Of the unjust proceedings against CAPTAINE BVRLEY AT VVINCHESTER And of his magnanimous and Chri<g ref="char:EOLhyphen"/>stian suffering.</p>
+            <p>Printed <hi>Anno Dom.</hi> 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:115545:2"/>
+            <pb facs="tcp:115545:2"/>
+            <p>
+               <hi>
+                  <seg rend="decorInit">N</seg>On paena sed causa facit Martyrem. It is not the punishment but the cause</hi> that <hi>makes a Martyr.</hi> Wee must not pro<g ref="char:EOLhyphen"/>stitute this honour, least wee fall into the Error of the times, and cloath impiety with the Robe of righteousnesse: Let none of you suffer as a murderer, or as a thiefe, or as an evill dooer, or as a busie-body in other mens matters saith the A<g ref="char:EOLhyphen"/>postle Saint <hi>Peter:</hi> 1 <hi>Pet:</hi> 4.15: Yet if any man suffer as a Christian, let him not be ashamed, but let him glorifie God on this behalfe.</p>
+            <p>Hee suffers as a Christian; first, that suffers for the maintenance of the Gospell, and he sufferth for the maintenance of the Gospell, that suffereth for any part of righteousnesse, with a righteous heart: A righteous heatt is that that is prepard to suffer for all of it, for one part as well as another, and makes God and Christ the ayme and scope of his suffe<g ref="char:EOLhyphen"/>rings: that undergoes his afflictions, not for his own glory but for Gods: No action or passion is right that hath not God for the utmost end of it: God is the <hi>God</hi> of <hi>righteousnesse,</hi> and <hi>Christ</hi> is the <hi>King of righteousnesse,</hi> he is <hi>Melchisedeck</hi> the <hi>King of righteousnesse,</hi> and he is <hi>King of Salem; The King of Peace;</hi> First <hi>King of righteousnesse,</hi> and then
+<pb facs="tcp:115545:3"/>
+               <hi>King of Peace;</hi> It is the order that the spirit hath set downe <hi>Heb.</hi> 7.2. He that suffers for <hi>peace</hi> and <hi>righteousnesse,</hi> than suffers for <hi>Melchisedec</hi> the <hi>King of Salem,</hi> for the <hi>King of Righteousnesse,</hi> and for the <hi>King of peace:</hi> if his intentions be right, and cleare, he suffers for <hi>Christ;</hi> this will teach us how we ought to value of our selves and others in point of suffering, yet with some diffe<g ref="char:EOLhyphen"/>rence in the inquisition, for our selves we are to deale more strictly, and to examine the heart and the inward thoughts, as well as the outward carri<g ref="char:EOLhyphen"/>age of the businesse, for our owne hearts are with<g ref="char:EOLhyphen"/>in our cognisance, and <hi>God hath given a commissi<g ref="char:EOLhyphen"/>on to every mans conscience to be an impartiall Iudge of it selfe:</hi> But in other mens cases we have no cognisance within, and therefore when the cause is good, and the externall carriage doth not evidently betray the heart, we ought to make the best interpretation, <hi>where evidence failes, Charity is to be the judge;</hi> and the favourable sentence, thereof is much incouraged and strengthned, where the righteousnesse of the cause is publike and knowne, and illustrated by the unjust proceedings of the adversary against it, and the cruelty of their actions, for besides that <hi>righteousnesse hath no need of iniquity, mercy doth usually keepe the doore of Iustice, and if she be absent, wee may conclude the other is not within.</hi>
+            </p>
+            <p>All this or a great part of it may conduce to the
+<pb facs="tcp:115545:3"/> right regulating of our thoughts concerning the subject of this book.</p>
+            <p>The quarrell that he maintained was not (I con<g ref="char:EOLhyphen"/>fesse) the immediate or entire <hi>Ghospell of Christ Iesus,</hi> for though it is to be feared wee have Hea<g ref="char:EOLhyphen"/>thens and worse then Heathens enough amongst us, Yet this is not yet made the open and generall quarrell. In time perhaps they may be more clear if they prosper, and can dispatch away that which God hath set for the <hi>guard both of Law and Gos<g ref="char:EOLhyphen"/>pell: The Orderly Government of the Magi<g ref="char:EOLhyphen"/>strate.</hi>
+            </p>
+            <p>But though he suffered not expressely for the <hi>christian profession,</hi> yet for divers mean parts and branches thereof which are: <hi>obedience to the Su<g ref="char:EOLhyphen"/>preame power</hi> and the maintenance thereof, the defence and <hi>rescue of oppressed and abused Maje<g ref="char:EOLhyphen"/>sty: The Vindication of his wronged innocency</hi> and rights: The <hi>glorious attempt of subduing,</hi> and <hi>opposing perjury, treason, rebellion, faction,</hi> and the rest of that rabble of mischiefes and villanyes which now are gotten up into the <hi>throne,</hi> and have put on the purple <hi>robes</hi> dyed in the <hi>blood</hi> and <hi>Gore</hi> of the <hi>Loyall</hi> and <hi>faithfull</hi> people of this <hi>Land.</hi>
+            </p>
+            <p>And as his sufferings were illustrated by a <hi>chri<g ref="char:EOLhyphen"/>stian cause.</hi> So they were rendred much more glorious, by the Christian manner of his death. wherein his <hi>charity</hi> to his Enemies and persecutors
+<pb facs="tcp:115545:4"/> is noted to have bin the sweete companion of his <hi>patience</hi> and resolution: in so much that it is rela<g ref="char:EOLhyphen"/>ted to have bin his charge Vnto his mournfull wife that <hi>Shee should never seeke revenge of those that were the unjust and cruel instruments of his death.</hi> Enough a man would thinke if there were any sparkes of honor or ingenuity (<hi>I</hi> speak not of religion) left alive in their hearts, to have overcom their <hi>malice,</hi> and to have made them ashamed of their bloody <hi>Cruelty.</hi>
+            </p>
+            <p>He was not content onely to forgive his persecu<g ref="char:EOLhyphen"/>tors himselfe, but took care for the preventing of all revengefull thoughts that might take fire from the flame of <hi>Conjugall love</hi> towards him in the Bosome of his wife that he left behind him. O hap<g ref="char:EOLhyphen"/>py Combination of <hi>Magnanimity</hi> and <hi>meekenesse!</hi> Oh heavenly Complexion of a true christian heart. The marriage of which 2. together in the soule, all the humane wisdome and prudence in the world, could never make up, but onely the grace of the divine Spirit. And then how beautifull was he in his death, that was thus illustrated with <hi>a good cause,</hi> and a <hi>christian affection</hi> with <hi>mag<g ref="char:EOLhyphen"/>nanimity of heart</hi> in the defence of the one, and with <hi>charity towards his Enemies</hi> for the manife<g ref="char:EOLhyphen"/>station of the other?</p>
+            <p>But as the splendour of a <hi>Diamond,</hi> or <hi>precious stone,</hi> is rendered the more visible by the addition of a <hi>foyle.</hi> So we may see the Glory of this inno<g ref="char:EOLhyphen"/>cent
+<pb facs="tcp:115545:4"/> and valiant sufferer more clearly, yet in the great and palpable <hi>injustice</hi> of his <hi>persecutors</hi> ap<g ref="char:EOLhyphen"/>pearing abundantly in tke strange mannage of his tryall at Winchester. Which I shall here set down as I have received it by relation.</p>
+            <p>It was had before <hi>Serjeant Wild</hi> acting a <hi>Iudge without commission</hi> from him, where the foun<g ref="char:EOLhyphen"/>taine of authority &amp; Judicature, doth reside under God. <hi>The want whereof is enough to turne the justest sentence into a murder;</hi> Prosecuted by one <hi>Steele</hi> a <hi>Lawyer, hardned</hi> it seemes for the purpose, for such enterprizes who there <hi>Acted</hi> the <hi>Kings Attorney,</hi> without a pattent, or any such power from his <hi>Majesty.</hi> And both these may seeme to have performed their parts much alike. <hi>A Iudge without any Legall Commission acting against Law,</hi> and a <hi>Kings Attorney without the royal designation, acting in the Kings name against the King, pursuing</hi> a <hi>Loyall Subject unto death for undertaking the faithfull defence of his Ma<g ref="char:EOLhyphen"/>jesty.</hi> And charging him with <hi>treason:</hi> because he <hi>opposed those that committed it.</hi>
+            </p>
+            <p>These 2. no doubt were ready and provided for their severall parts.</p>
+            <p>But a <hi>Iury</hi> was not so easily to begotten toge<g ref="char:EOLhyphen"/>ther for their purpose, untill they had <hi>invited one to Dinner,</hi> that was to serve their turnes in that feate, and received instructions from him as it is supposed: who undertaking to be the fore-man
+<pb facs="tcp:115545:5"/> they made up a <hi>Iury,</hi> and therein you may imagine they will not likely be at a fault if there be but 12. <hi>in a County</hi> that may serve their turnes.</p>
+            <p>Well the Jury at length is gotten together, and then the businesse is set in motion.</p>
+            <p>The <hi>Iudge</hi> set upon the <hi>Bench,</hi> and <hi>Captaine Burley</hi> at the <hi>Barre,</hi> and a sad <hi>Embleme</hi> of our <hi>miserable times,</hi> When <hi>Treason and Seditiion,</hi> is in the <hi>tribunal</hi> as the <hi>Iudge,</hi> and <hi>Loyalty</hi> and <hi>fidelity</hi> is arraigned as a <hi>Prisoner,</hi> and an <hi>Offendor:</hi> Thus <hi>Light is put for Darkenesse,</hi> and <hi>Darknesse for. Light</hi> &amp;c. and may we not than justly appeal unto God in the words of the Psalmist. <hi>arise thou O Lord, and judge thou the Earth.</hi>
+            </p>
+            <div type="part">
+               <head>The CHARGE is as followeth.</head>
+               <p>
+                  <hi>THat the said Captaine</hi> Iohn Burley <hi>was the cheife cause or incendeary for causing a drum to be beat up,</hi> For God and King Charles, <hi>at</hi> New<g ref="char:EOLhyphen"/>port <hi>in the Isle of</hi> Wight, <hi>and causing a mutiney there, contrary to divers Ordinances of Parliament made in that behalfe.</hi>
+               </p>
+               <p>This the <hi>Monkey Attorney undertooke</hi> to make appeare to the <hi>Iury to</hi> be <hi>treason,</hi> partly by <hi>trea<g ref="char:EOLhyphen"/>cherous and fraudulent alegations,</hi> of repealed <hi>Statutes,</hi> most unchristianly and impudently there by attempting to <hi>betray the consciences of the Iu<g ref="char:EOLhyphen"/>ry,</hi> and <hi>the life of a poore innocent man,</hi> and partly
+<pb facs="tcp:115545:5"/> by <hi>misapplications</hi> of the <hi>Statute</hi> of <hi>treason of the</hi> 25th. <hi>Edw.</hi> 3d. and what piety or honesty can be looked for, from those that can <hi>countenance and practise such impudent and cruell deceipt and fal<g ref="char:EOLhyphen"/>shood even in matter of Blood.</hi>
+               </p>
+               <p>The <hi>Iury</hi> when they had their instructions, are dismissed, but the matter falling into debate a<g ref="char:EOLhyphen"/>mongst them, (though it's like they were willing enough to be blinded, to serve the turnes of those that had employed them) yet the matter was too palpable to be dissembled by them: They finde themselves, farre short of any evidence from law to finde a <hi>Bill</hi> of <hi>Treason</hi> against <hi>the Captaine.</hi>
+               </p>
+               <p>Therefore they returne to the <hi>Barre</hi> to require further satisfaction, because the <hi>Statutes</hi> that Mr. <hi>Steele</hi> urged were <hi>repealed,</hi> and so, void of force: and the <hi>statute</hi> of the 25th. of <hi>Edward</hi> the 3d: did not seeme to them to come home unto the bu<g ref="char:EOLhyphen"/>sinesse. Since the <hi>high Treasons</hi> that are there set downe are only these.</p>
+               <p n="1">1 <hi>The compassing or imagining the Kings death, or the Queens, or their eldest son and heire.</hi>
+               </p>
+               <p n="2">2 <hi>The violating of the Kings Companion, or the Kings eldest Daughter unmarried, or the wife of the Kings eldest son and heire.</hi>
+               </p>
+               <p n="3">3 <hi>The levying of Warre against our Soveraigne Lord the King in his Realme, or to be adherent to the Kings enemies in his Realme, giving to them <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>id or comfort, in the realme, or else where.</hi>
+               </p>
+               <p n="4">
+                  <pb facs="tcp:115545:6"/>4 <hi>The counterfeating the Kings Great Seale, or his privy Seale, or his money.</hi>
+               </p>
+               <p n="5">5 <hi>The bringing of false mony into this Realme.</hi>
+               </p>
+               <p n="6">6 <hi>The slaying the Chancellor, treasurer, or the Kings Iustices, being in their places, doing their Offices.</hi>
+               </p>
+               <p>And the <hi>Iury</hi> it seemes though they looked ne<g ref="char:EOLhyphen"/>ver so much through Mr: <hi>Steeles Spectacles,</hi> could not yet read Captaine <hi>Burleys</hi> act to be <hi>treason</hi> in any of these particulars, for if it were any of the treasons there mentioned, sure it must be either in the <hi>first branch or in the third,</hi> and whether Captaine <hi>Burley</hi> had any thought of <hi>Compassing</hi> or <hi>imagining the Kings death,</hi> or the <hi>Queens,</hi> or <hi>their eldest son</hi> and <hi>Heyre, or of leavying Warre against the King,</hi> or of <hi>adheering to his Enemies;</hi> let the world judge: Vnles to endeavour the <hi>de<g ref="char:EOLhyphen"/>fence and rescue of the King,</hi> be to <hi>imagine or compasse his death</hi> or destruction, and to <hi>oppose the Kings Enemies,</hi> be to <hi>joyne with them:</hi>
+               </p>
+               <p>This was a matter of <hi>hard digestion</hi> it seemes un<g ref="char:EOLunhyphen"/>to the consciences of the <hi>Grand Iury;</hi> But Master-<hi>Steele</hi> would not so give them over untill he had given rhem a <hi>medicine for their queasie stomacks,</hi> that they may put over this <hi>hard meat.</hi>
+               </p>
+               <p>He excuseth the matter with <hi>shame</hi> enough, con<g ref="char:EOLhyphen"/>cerning the <hi>repealed statutes</hi> which he urged, tel<g ref="char:EOLhyphen"/>ling them, that it was true indeed, <hi>they were re<g ref="char:EOLhyphen"/>pealed, but he had forgot to tell them so;</hi> But why
+<pb facs="tcp:115545:6"/> then did he urge them at all? or why did the <hi>Iudge</hi> and the learned Bench forget to rectifie so great an oversight in the <hi>Attorney,</hi> that might be so pre<g ref="char:EOLhyphen"/>judiciall unto <hi>innocent blood?</hi> or is that man fitte think you to manage any publike matter that is endued with such a <hi>trayterous memory,</hi> and such a pernicious forgetfullnesse? But he must be pardo<g ref="char:EOLhyphen"/>ned for that: but to make up the fault, he tells them that the Statute of the 25th. of <hi>Edw.</hi> 3d. was that he stood upon, and to satisfie the doubt whether it were Treason by that Statute or no? He asked them, <hi>whether they did not beleeve that the King was vertually in the Parliament?</hi> This it seemes they wanted either <hi>wit</hi> or <hi>honesty</hi> to evade: and knew not how to distinguish betweene a <hi>Parlia<g ref="char:EOLhyphen"/>ment joyned with the King, and acting all things by his consent and authority, wherein the King is ver<g ref="char:EOLhyphen"/>tually without doubt, and there he may be perso<g ref="char:EOLhyphen"/>nally when he pleaseth: and A degenerate headles seditious thing, sitting under the name of a Parlia<g ref="char:EOLhyphen"/>ment, rejecting the King, disclayming him, and acting against him.</hi> But it seemes the <hi>Iury</hi> were willing to <hi>swallow. Small colours will serve the turne, when men are willing to minister unto wick<g ref="char:EOLhyphen"/>ednesse; they are now perswaded to find the Bill.</hi>
+               </p>
+               <p>The Bill being found, and the scruple of Law be<g ref="char:EOLhyphen"/>ing so learnedly removed by Mr. <hi>Attorney.</hi>
+               </p>
+               <p>The <hi>Question of the fact</hi> is brought into agita<g ref="char:EOLhyphen"/>tion.</p>
+               <pb facs="tcp:115545:7"/>
+               <p>The <hi>Major</hi> was now taken for proved and granted, let <hi>reason,</hi> or <hi>law</hi> stand never so much a<g ref="char:EOLhyphen"/>gainst it, <hi>viz:</hi>
+               </p>
+               <p>
+                  <hi>That he that endeavours to defend his King, and vindicate him, &amp;c: is a traytour against the King, and guilty of high treason.</hi>
+               </p>
+               <p>So the <hi>minor</hi> is now to be made good, viz. But Captaine <hi>Burley</hi> did endeavour to defend and vindicate the King; &amp;c. The <hi>Iury of life and death</hi> are they to whom the examination of this is com<g ref="char:EOLhyphen"/>mitted; And the evidence are the <hi>witnesses</hi> of the <hi>Captaines</hi> fact:</p>
+               <p>The <hi>Iury</hi> therefore is called <hi>to the Barre confi<g ref="char:EOLhyphen"/>sting as is averred for the most part of sequestra<g ref="char:EOLhyphen"/>tors, or other Officers of the Houses;</hi> to heare the evidence against the <hi>Prisoner:</hi> The <hi>Question</hi> is betweene Captain <hi>Burley</hi> now and the <hi>witnesses,</hi> whether he were guilty of the fact or no?</p>
+               <p>He holds the negative, <hi>denyes</hi> himselfe to be <hi>guilty as of a crime,</hi> for so ir was now stated, and represented, And desires leave to speak for him<g ref="char:EOLhyphen"/>selfe; The Judge conceived, it seemes, there might be danger in that, to transgresse the rules of <hi>Par<g ref="char:EOLhyphen"/>liament proceeding,</hi> and therefore thinks better to divert him with some <hi>faire words</hi> for the present, to this purpose, <hi>Captaine Burley you shall be sure to have a faire tryall, and be heard to speak at full: <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ut now the Kings evidence is to be heard, and therefore you must forbeare:</hi> the poore Prisoner
+<pb facs="tcp:115545:7"/> must be content, in hope that his turne might come to speak anon:</p>
+               <p>The Witnesses that were brought against him, were three as is related: <hi>A Boy, a Woman, and A Man.</hi>
+               </p>
+               <p>The <hi>Boy</hi> is said to have bin of abont 14 yeares <hi>of age,</hi> And his evidence was this, viz: That <hi>Cap<g ref="char:EOLhyphen"/>taine Burley wisht him to go for a Drumme which accordingly he did, and that as he brought it, the Drumme was taken from him.</hi>
+               </p>
+               <p>The Woman, <hi>That shee heard Capt.</hi> Burley <hi>say he would be the first that should enter.</hi>
+               </p>
+               <p>The Mans: <hi>That the Major of the towne came to the drummer to demand the Drumme, and that the Drummer gave him ill Language, and that thereupon Captaine Burley reprooved the Drum<g ref="char:EOLhyphen"/>mer, asking him whether he knew who it was he speake to, and telling him it was the Mayor of the Town wishing him to deliver the Drumme which accordingly was done,</hi>
+               </p>
+               <p>See heere what a faire <hi>evidence</hi> there was to prove him guilty of the fact, which if they could have made never so clear, Was no reason nor of<g ref="char:EOLhyphen"/>fence, but a mater of Duty in the judgement of the <hi>Law.</hi>
+               </p>
+               <p>But this is enough to satisfie the <hi>Iury</hi> who knew well enough no doubt what they had to doe. Therefore with this Evidence they are speedily sent away, to consult together for the bringing in of their Verdict.</p>
+               <pb facs="tcp:115545:8"/>
+               <p>And now the <hi>captaine</hi> desires the <hi>performance</hi> of that <hi>promise</hi> that was lately made him, of a fair ad<g ref="char:EOLhyphen"/>mittance to speake for himselfe.</p>
+               <p>To that purpose therefore he renewed his <hi>Pe<g ref="char:EOLhyphen"/>tition;</hi> but <hi>Iustice is never in season with the in<g ref="char:EOLhyphen"/>struments of unrighteousnesse;</hi> That which was <hi>too soone</hi> before, was now <hi>to late:</hi> the <hi>Judge</hi> tells him <hi>that all he could speak, was only for the informati<g ref="char:EOLhyphen"/>on of the Iury, who were now gone, and therefore it was to late for him to speake now.</hi>
+               </p>
+               <p>But if the <hi>Iudge</hi> had bin but so just as to have consulted with the Heathen Poet hee would have told him that
+<q>
+                     <l>Nulla unquam de morte hominis</l>
+                     <l>cunctatio longa est,</l>
+                  </q>
+                  <hi>But wild beasts are commonly of much speed when they ane in pursuit of their prey.</hi>
+               </p>
+               <p>But why might not the <hi>Iury have</hi> bin stayed to make good the <hi>word of a reverend Iudge,</hi> if not to heare the answer of a poore prisoner for his life? or if they were gone, why might they not have bin <hi>called againe?</hi>
+               </p>
+               <p>But indeede it might have bin a greate hinde<g ref="char:EOLhyphen"/>rance to the businesse, and that question of <hi>Nico<g ref="char:EOLhyphen"/>demus Ioh:</hi> 7.51. is now out of date. <hi>Doth our Law judge any man before it heare him, and know what he saith;</hi> where the Law is not the Judge no won<g ref="char:EOLhyphen"/>der if the Prisoner want a hearing.</p>
+               <p>Well. the <hi>Iury returne,</hi> and finde the prisoner
+<pb facs="tcp:115545:8"/> guilty of <hi>high treason, right or wrong,</hi> it was so <hi>de<g ref="char:EOLhyphen"/>creed,</hi> and they must doe the <hi>busines they were called for.</hi>
+               </p>
+               <p>And thus the <hi>Major</hi> and <hi>Minor</hi> being made good by the two <hi>Iuries.</hi>
+               </p>
+               <p>The <hi>Iudge</hi> he makes up all with the <hi>bloody con<g ref="char:EOLhyphen"/>clusion,</hi> pronouncing the Sentence of <hi>death</hi> upon him.</p>
+               <p>Which was accordingly as <hi>wickedly and cruelly executed, as it was christianly suffered and under<g ref="char:EOLhyphen"/>gone, His body is drawne upon an Hurdle to the Gallowes. And there hanged, and afterwards cut downe, and Quartered, and the Quarters hang up upon stakes or poles.</hi>
+               </p>
+               <p>And this was the unjust barbarous massacre of this <hi>Loyall</hi> and <hi>valiant christian.</hi>
+               </p>
+               <p>And yet least all this might not be <hi>Glory</hi> enough unto the <hi>cruelty</hi> of that unrighteous <hi>intruder into Indicature,</hi> let me commend 2. passages more into your notice, to shew the kindenesse and piety of the Judge, Vnto his poore <hi>wife</hi> who petitions him for two things; The one <hi>that his poore Estate might be divided between his Wife and Children</hi>
+               </p>
+               <p>To this he replyes, That her Husband was a <hi>trai<g ref="char:EOLunhyphen"/>tor,</hi> and that his Estate was not in his power to dispose off but but in the power of the <hi>Parliament.</hi> and therein he committed another act of injustice toward the <hi>King,</hi> to whom we know all Tray<g ref="char:EOLhyphen"/>tors goods are forfeited by the <hi>Lawes.</hi>
+               </p>
+               <pb facs="tcp:115545:9"/>
+               <p>Another request was, that shee might have his <hi>body to bury;</hi> to that He replyes with an unchri<g ref="char:EOLhyphen"/>stian <hi>Ieere</hi> (what may perhaps prove truer than he is a ware of to his small comfort) that <hi>he thought he should do her a discurtesie in it, for if his body were suffered to hang there, The Cava<g ref="char:EOLhyphen"/>liers that came by would say, there hangs honest Capt.</hi> Burley <hi>that was true to his King.</hi> But I wish that <hi>wicked Serjeant</hi> to take heede, that that <hi>Ieere of a poore distressed Widdow, be not one day returned into his bosome</hi> in the like <hi>punishment,</hi> when they that <hi>passe by</hi> shall say <hi>here hangs a wicked</hi> Serjeant who was a <hi>traitor to the Law, to his King, and to his Countrey.</hi>
+               </p>
+               <p>Yea let me advise him and all his party to re<g ref="char:EOLhyphen"/>member those <hi>deep staynes of innocent blood,</hi> wherewith they have <hi>blotted</hi> their <hi>soules,</hi> and to consider how they will one day answer for so ma<g ref="char:EOLhyphen"/>ny <hi>lives</hi> as they have sacrificed to their <hi>seditious cruelty:</hi> to remember that though their <hi>measure be great,</hi> yet <hi>bloud fills a pace,</hi> and it will one day <hi>runne over</hi> if they take not heed to their great <hi>Confusion:</hi> to go yet and humble themselves <hi>before God,</hi> and to their <hi>gracious King;</hi> That if it be pos<g ref="char:EOLhyphen"/>sible their <hi>Horrid iniquities</hi> and high impieties may find a <hi>pardon.</hi> If they stay too long the doore of mercy may be shut. As they have not beene a<g ref="char:EOLhyphen"/>shamed <hi>to commit such notorious wickednesse;</hi> so let them not now be ashamed <hi>to repent of it;</hi> they
+<pb facs="tcp:115545:9"/> have a <hi>mercifull God</hi> and a <hi>gracious Prince</hi> to deale with, and though they have highly <hi>provoked</hi> both of them, Yet if they will returne, with humility and sincerity to both, there may be <hi>comfort</hi> for them; but if they be still resolved to continue in those <hi>bloudy</hi> and <hi>wicked enterprises</hi> they have undertaken, let them be well assured that the <hi>Iu<g ref="char:EOLhyphen"/>stice of God will find them out</hi> at the length, and it is <hi>charity</hi> both to them and the Church of God, to pray, that they may be speedily cut off: that they may not live to heape <hi>miseries</hi> upon the <hi>Church,</hi> and condemnation upon themselves by their wickednesse. The Lord in <hi>mercy</hi> give them a true sence of their <hi>sinnes,</hi> and of their <hi>wretch<g ref="char:EOLhyphen"/>ed</hi> and <hi>miserable condition</hi> that they are in, that their soules may be saved through a timely <hi>repen<g ref="char:EOLhyphen"/>tance,</hi> or else put his <hi>Hooke</hi> into the <hi>nostrills</hi> of those <hi>ravening Wolves</hi> that worry the poore in<g ref="char:EOLhyphen"/>nocent people of the <hi>land.</hi>
+               </p>
+               <p>Now let me advise all men to be encouraged by the death of this noble suferer to put on that meek temper of sanctified courage, Consecrated for our imitation, by our blessed <hi>Saviour</hi> upon the <hi>Crosse,</hi> who <hi>prayed</hi> for thē that <hi>crucified him,</hi> &amp; became a suitour unto his <hi>Father</hi> for the pardon of their wickednesse who destroyed him with furious and ravenous rancour of spirit, for nothing but his in<g ref="char:EOLhyphen"/>nocency and righteousnes? which was illustriously
+<pb facs="tcp:115545:10"/> seconded by that great <hi>leader</hi> under Christ of the <hi>Christian Warefare</hi> in the New Testament, <hi>St. Stephen:</hi> who whilst his malicious persecutors were pelting him to death, and sending forth <hi>volleyes of stons</hi> from their hands, &amp; of malicious thoughts, and rancourous despite against him, harder then those stones out of the quarills of their flin<g ref="char:EOLhyphen"/>ty hearts: He is offering up <hi>petitions,</hi> for their <hi>pardon</hi> at the <hi>Throne of Grace:</hi> and makes it his last suit upon his bended knees unto the <hi>almighty,</hi> in which he breathes out his holy soule into the bosome of his <hi>Saviour: Lord lay not this sinne unto their Charge. And when he had so said, he fell a sleep;</hi> patterns. That should be made the frequent prospect of meditation by the <hi>suffering party</hi> in these evill times: That wee may re<g ref="char:EOLhyphen"/>member not to divide the <hi>Christian cause</hi> of our sufferings, wherewith <hi>God</hi> hath <hi>honoured us,</hi> and allayed the bitternesse of them, (for which his name be for ever magnified) from that <hi>Christian temper</hi> wherewith we ought to suffer, consisting of <hi>humility,</hi> and <hi>Amity</hi> even to our <hi>enemies,</hi> nor from that <hi>Christian ayme</hi> or <hi>scope</hi> of them, which is the Glory of <hi>God.</hi> without which, neyther the <hi>righteousnesse of the cause,</hi> Nor the <hi>acrimo<g ref="char:EOLhyphen"/>ny</hi> of our <hi>sufferings,</hi> will purchase us a true right unto that <hi>Glorious title of Martyrs.</hi> since wee know that the holy <hi>Apostle</hi> hath recorded it as a
+<pb facs="tcp:115545:10"/> greate and unreversible rule of <hi>christianity:</hi> That <hi>though we give our bodyes to be burned, and have not charity, it profitteth us nothing.</hi> and this cha<g ref="char:EOLhyphen"/>rity, must extend it selfe even unto our persecu<g ref="char:EOLhyphen"/>tours. <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ut yet least it should prove a <hi>charity mi<g ref="char:EOLhyphen"/>staken,</hi> gives me leave to put in a word or two here for the direction of my <hi>fellow sufferers,</hi> in this point, and to shew them, that are igno<g ref="char:EOLhyphen"/>rant of it, and to mind others that may forget it, of the <hi>nature, bounds</hi> and <hi>limits,</hi> of this <hi>charity</hi> to our <hi>Enemies,</hi> in these few <hi>theses</hi> or <hi>Positi<g ref="char:EOLhyphen"/>ons.</hi>
+               </p>
+               <p n="1">1. That this <hi>charity</hi> that we owe unto them, <hi>doth not</hi> at all <hi>bind</hi> us to <hi>comply</hi> with them in their <hi>wickedness,</hi> or to <hi>countenance</hi> their <hi>ungodly practises.</hi> Nay it doth <hi>forbid</hi> us to do it, and that even out of <hi>regard of love</hi> unto <hi>them,</hi> as well as unto <hi>justice, innocency</hi> and <hi>Loyalty,</hi> For <hi>he that complyes with another in wickednesse, or counte<g ref="char:EOLhyphen"/>nanceth him in it, doth as it were set to his helping hand to set him forward into Hell, and is in great danger to tumble himselfe along with him,</hi> and that is <hi>no act of love</hi> either unto <hi>them</hi> or to <hi>our selves.</hi>
+               </p>
+               <p>Besides, that The <hi>Order of the worke of Charity</hi> doth discharge us clearly from any such thing: for though we are bound to <hi>love our enemies,</hi> yet this <hi>love</hi> must <hi>act</hi> in <hi>subordination</hi> to <hi>that love
+<pb facs="tcp:115545:11"/> we owe to God, our owne soules, to the publique good, to the honour of the Ghospell, to the preser<g ref="char:EOLhyphen"/>vation of the Church, to the substitute of God, to innocent men, and even to righteousnesse and inno<g ref="char:EOLunhyphen"/>cency it selfe:</hi> All which are to be <hi>served</hi> with our <hi>charity before them,</hi> and have power to <hi>inhi<g ref="char:EOLhyphen"/>bite</hi> all <hi>acts of love</hi> (if it might be so called) to<g ref="char:EOLhyphen"/>ward them, that <hi>thwart</hi> any of these or ly in <hi>op<g ref="char:EOLhyphen"/>position</hi> unto them.</p>
+               <p n="2">2. That this <hi>charity toward our Enemies, doth not any way abridge us from acting against them in their ungodly designes.</hi> Wee <hi>fayle</hi> in our <hi>love</hi> toward them, if wee do not hinder them in all we <hi>lawfully may,</hi> from <hi>proceeding</hi> and <hi>prospering</hi> in their <hi>impious</hi> enterprizes, for such <hi>prosperity</hi> is their <hi>misery,</hi> as one hath said excellently well.</p>
+               <p>
+                  <hi>Si miserum est voluisse prava, potnisse miserius. If it be a misery to wish or to attempt that which is evill, it is a greater misery, to pros<g ref="char:EOLhyphen"/>per in it and to be able to bring it to passe.</hi> Which will discover a great deale of <hi>prosperity mistaken</hi> amongst us in these times, if men were not <hi>drunk with pride and selfe love.</hi> Now <hi>cha<g ref="char:EOLhyphen"/>rity bindeth us,</hi> not onely <hi>not to set forward</hi> the <hi>evill</hi> or <hi>unhappinesse</hi> of any, but also to <hi>do what we can</hi> within our <hi>bounds</hi> and <hi>limits</hi> to <hi>hinder it.</hi> And here also the same engagements before mentioned, which are to be served before them, as
+<pb facs="tcp:115545:11"/> they <hi>forbid us</hi> to <hi>joyne</hi> with them, so they <hi>en<g ref="char:EOLhyphen"/>gage us</hi> much more strongly than seemes to be apprehended by most men in these dayes, to <hi>act in opposition</hi> unto them, otherwise our <hi>oscitancy,</hi> and <hi>sloath</hi> or <hi>Cowardise</hi> herein, may make us <hi>guil<g ref="char:EOLhyphen"/>ty,</hi> both of <hi>encouraging them in their sinnes,</hi> and of the <hi>ruine of the Church and State,</hi> and of the <hi>oppression,</hi> that I say no more, of the <hi>Lords an<g ref="char:EOLhyphen"/>noynted, whom we are bound to defend and main<g ref="char:EOLhyphen"/>taine,</hi> both in <hi>common Iustice</hi> and <hi>piety,</hi> which <hi>bindeth</hi> all to <hi>maintaine the Ordinance of God,</hi> which is the <hi>power</hi> that is established over us in him, and to <hi>defend</hi> that which <hi>God</hi> hath <hi>appoin<g ref="char:EOLhyphen"/>ted</hi> for our <hi>benefit,</hi> as is the <hi>Magistrate,</hi> and es<g ref="char:EOLhyphen"/>pecially the <hi>supreme,</hi> and also out of <hi>thankefull<g ref="char:EOLhyphen"/>nesse</hi> as well as <hi>duty,</hi> when the <hi>cause</hi> of <hi>his suffe<g ref="char:EOLhyphen"/>rings</hi> is in all or a great part, the <hi>defence of our Interest,</hi> and that in those things wherein wee are most concerned, as are our <hi>Religion, Liber<g ref="char:EOLhyphen"/>ties, Lawes, &amp;c.</hi> upon which dependeth all our spirituall and Temporall good.</p>
+               <p>And it may seeme something strange, that men should act so for the <hi>deliverance</hi> of <hi>him,</hi> who <hi>suffereth</hi> so much for the <hi>defence</hi> of them. This is a point of <hi>conscience,</hi> as well as of <hi>honour,</hi> and wee are growne a man would think unto a strang temper, if neither will work upon us: is it not even time than for us to be spoyled of the
+<pb facs="tcp:115545:12"/>
+                  <hi>Glory</hi> both of our <hi>christian</hi> and <hi>English name?</hi> But what said <hi>David</hi> unto <hi>Abner,</hi> when he and his Army were asleepe, and took no care to guard the <hi>person</hi> of <hi>Saul</hi> their <hi>King</hi> from violence? <hi>This this is not good that thou hast done: As the Lord liveth, yee are worthy to die, because yee have not kept your Master the Lords anoynted.</hi> 1. <hi>Sam.</hi> 26.16. And what said our <hi>Saviour</hi> unto <hi>Pilate? If my Kingdome were of this world, than would my servants fight, that I should not be de<g ref="char:EOLhyphen"/>livered to the Iewes</hi> And was <hi>Abner</hi> worthy to <hi>dye,</hi> becase hee <hi>neglected</hi> the <hi>defence</hi> of a <hi>wic<g ref="char:EOLhyphen"/>ked Saul.</hi> And shall they think themselves <hi>wor<g ref="char:EOLhyphen"/>thy to live</hi> that will do nothing for the <hi>vindica<g ref="char:EOLhyphen"/>tion of a righteous and pious Prince trodden un<g ref="char:EOLhyphen"/>der foot by wicked and ungodly men.</hi>
+               </p>
+               <p>Can they beleeve that their <hi>soules</hi> shall be able to <hi>answer it unto God,</hi> or their <hi>reputations</hi> unto the <hi>world,</hi> and to <hi>posterity?</hi> was there ever so <hi>good a King</hi> deserted by an <hi>unworthy Nation, suffe<g ref="char:EOLhyphen"/>ring for them,</hi> because he will not <hi>sell their liber<g ref="char:EOLhyphen"/>ty to purchase his owne freedome,</hi> not <hi>buy his his owne safety with the ruine of their soules,</hi> by <hi>prostituting</hi> the <hi>Church,</hi> and the chast and <hi>pure Virgin truth</hi> of the <hi>Gospell</hi> unto the <hi>promiscuous lust</hi> of all kind of <hi>Blasphemies</hi> and <hi>Innovations?</hi> will there be no <hi>account</hi> for this <hi>another day?</hi> let not any so farre injure the <hi>Charity</hi> of my <hi>pen</hi>
+                  <pb facs="tcp:115545:12"/> as to imagin that this is the issue of any <hi>bloody</hi> or <hi>revengefull heart;</hi> my ayme is much rather, to prevent <hi>bloudshed and desolation,</hi> then to further it, which with <hi>Gods blessing</hi> I see not yet but might be easily done if we had but <hi>harts</hi> to <hi>de<g ref="char:EOLhyphen"/>clare our selves unanimously for Iustice and right in time,</hi> and to <hi>disarme</hi> those whose <hi>husbandry</hi> it is to <hi>sow</hi> the seedes of <hi>perpetuall discords</hi> and <hi>di<g ref="char:EOLhyphen"/>visions</hi> in this poore <hi>Nation,</hi> and to <hi>mancipate,</hi> and <hi>enslave</hi> us to a continued <hi>succession</hi> of <hi>mise<g ref="char:EOLhyphen"/>ries</hi> and <hi>mischeifes:</hi> The intollerable weight and burden whereof, is like enough to make posterity <hi>Curse,</hi> the <hi>Cowardize</hi> and <hi>faithlesnesse</hi> of those <hi>unworthy Progenitors</hi> that have exposed them to such a <hi>bondage</hi> of servitude and destruction, and that <hi>begot them</hi> to such insupportable <hi>afflicti<g ref="char:EOLhyphen"/>on.</hi>
+               </p>
+               <p n="3">3. Yet notwithstanding all this what ever <hi>acti<g ref="char:EOLhyphen"/>ons, conscience</hi> and <hi>fidelity</hi> may engage us unto, we must abandon all thoughts therein of <hi>private revenge,</hi> or <hi>rejoycing</hi> in the <hi>hurt</hi> or <hi>ru<g ref="char:EOLhyphen"/>ine (qua tale,)</hi> of our most pernicious adversaries, but only so farre as they do by their own <hi>wicked<g ref="char:EOLhyphen"/>nesse</hi> and <hi>stubbornesse</hi> make it of <hi>necessity</hi> to the <hi>preservation of Gods glory,</hi> His <hi>Church,</hi> The <hi>pub<g ref="char:EOLhyphen"/>like good of</hi> the <hi>King &amp; People,</hi> the <hi>vindication</hi> of <hi>oppressed righteousnes</hi> &amp; <hi>innocency,</hi> &amp; must pro<g ref="char:EOLhyphen"/>ceed there in not as the <hi>instruments</hi> of our own <hi>af<g ref="char:EOLhyphen"/>fections,</hi>
+                  <pb facs="tcp:115545:13"/> but of the Authority of the supream <hi>Magistrate,</hi> whose <hi>known restraint</hi> and <hi>oppres<g ref="char:EOLhyphen"/>sion,</hi> is without all doubt <hi>a sufficient commission, if no other may be had</hi> in <hi>such a case;</hi> The <hi>Law</hi> ar<g ref="char:EOLhyphen"/>ming every subject with authority enough to <hi>de<g ref="char:EOLhyphen"/>fend the Magistrate,</hi> and it being an undoubted <hi>consequence</hi> in the rule of <hi>proportion:</hi> That if every <hi>subject</hi> be <hi>allowed</hi> without breach of <hi>Iustice,</hi> to <hi>defend</hi> himselfe with armes <hi>against private force,</hi> where he is <hi>debarred</hi> of <hi>recourse</hi> to the <hi>Magistrate</hi> for ayd, through want of oppor<g ref="char:EOLhyphen"/>tunity: It must needes be as <hi>Iust</hi> and <hi>allowable</hi> for the <hi>Subiects</hi> without any other <hi>commission,</hi> but that which their <hi>common duty to the Magi<g ref="char:EOLhyphen"/>strate,</hi> and their <hi>Oathes of Alegiance,</hi> and <hi>supre<g ref="char:EOLhyphen"/>macy, with the Lawes,</hi> and regard <hi>of publique safe<g ref="char:EOLunhyphen"/>ty,</hi> give them: to <hi>stand for</hi> the <hi>defence</hi> of the <hi>Ma<g ref="char:EOLhyphen"/>gistrate</hi> and publique, against <hi>usurped power,</hi> where they are denyed <hi>accesse</hi> unto the <hi>Magi<g ref="char:EOLhyphen"/>strate</hi> through the <hi>restraint</hi> of his <hi>liberty</hi> by the force of the said <hi>Vsurpers;</hi> yet stil with such a hart, as much rather <hi>desiring</hi> that such an evil might be remedied by their <hi>conversion</hi> them their <hi>confusion,</hi> if it may stand with justice and the honour of <hi>God:</hi> and looking <hi>sadly</hi> upon that necessity which drives unto a more severe course against them than is otherwise <hi>desired.</hi>
+               </p>
+               <p>And Fourthly in case, we <hi>fall into their hands,</hi>
+                  <pb facs="tcp:115545:13"/> and the Lord shall permit them for our <hi>sinnes,</hi> or for our <hi>tryall,</hi> or for the <hi>sealing of truth</hi> and <hi>righteousnesse,</hi> to exercise any kind of <hi>unjust cruelties</hi> against us: Though nothing must draw us to <hi>acknowledge</hi> or <hi>submit</hi> unto their <hi>uniust power,</hi> Yet we must be ready to <hi>forgive them,</hi> whatsoever is done by them therein <hi>against our selves</hi> in any of our <hi>private interests,</hi> whether it be in <hi>life, goods,</hi> or <hi>honour,</hi> or any other such like:</p>
+               <p>Lastly to make up our <hi>Martyrdoms,</hi> though per<g ref="char:EOLhyphen"/>haps, wee are not arived unto that <hi>high honour,</hi> as <hi>to suffer expresly, for the faith of Christ Iesus,</hi> yet we must be sure that we suffer <hi>in the faith of Christ Iesus</hi> with <hi>holy</hi> &amp; <hi>christian affections,</hi> un<g ref="char:EOLhyphen"/>tainted w<seg rend="sup">th</seg>
+                  <hi>vain glory</hi> or any other <hi>ungodly dispo<g ref="char:EOLunhyphen"/>sitions</hi> of heart therein, and that we <hi>defile not our owne bloud</hi> shed in a <hi>righteous cause,</hi> by the <hi>wick<g ref="char:EOLhyphen"/>ednesse of our lives.</hi> All our <hi>loyalty</hi> will never save us, nor our <hi>constancy</hi> in the defence of any <hi>particular rule of Godlinesse,</hi> If wee give our selves the <hi>liberty</hi> to wallow in the <hi>mire</hi> of <hi>lust, intemperance,</hi> or <hi>uncleannesse</hi> or to <hi>blaspheame God,</hi> or to any other kind of knowne sinne, so as to dispense with our selves therein; <hi>None but a good man can be the Subject of Martiredome.</hi>
+               </p>
+               <p>I hope I may be pardoned for this advice, if the great uncertainty of our present condition, be considered, and how probable it is yet; that the
+<pb facs="tcp:115545:14"/> insolent and impious cruelty of our Adversaries may be yet longer armed against us for our sins, and may call perhaps many more of us, unto such like <hi>trialls</hi> as these: unto which there is great ne<g ref="char:EOLhyphen"/>cessity that we should take care to <hi>prepare our selves,</hi> by framing our selves unto the <hi>right rules</hi> and <hi>temper</hi> of <hi>true Martiredome,</hi> and <hi>Christian suffering.</hi>
+               </p>
+               <p>For the furtherance whereof give me leave to insert here an excellent passage of St. <hi>Cyprian,</hi> ta<g ref="char:EOLhyphen"/>xing the <hi>Abuses</hi> and <hi>miscariages</hi> of some <hi>Con<g ref="char:EOLhyphen"/>fessors</hi> in his Time, whereby the <hi>Iudgements</hi> of <hi>God</hi> were conceived by him to be pulled upon the <hi>Church,</hi> as perhaps now they are <hi>continued</hi> upon us by the same meanes, desiring all those of the <hi>suffering party</hi> to take notice thereof so far as they shall be more or lesse <hi>concerned therein:</hi>
+               </p>
+            </div>
+            <div type="part">
+               <pb facs="tcp:115545:14"/>
+               <p>
+                  <hi>CYprian. De Causis persecutionis: In<g ref="char:EOLhyphen"/>telligendum est et confitendum pressura istius tam turbidam vastitatem, quae gre<g ref="char:EOLhyphen"/>gem nostram maximâ ex parte depopulataest, et adhuc usque populatur, secundum peccata nostra venisse: dum viam Domini non te<g ref="char:EOLhyphen"/>nemus, nec data nobis ad salutem Caelestia mandata servamus; fecit Dominus noster Uoluntatem patris Et nos non facimus Domini voluntatem patrimonio et lucro stu<g ref="char:EOLhyphen"/>dentes: superbiam Sectantes: aemulationi et dissensioni vacantes: simplicitatis et fidei negligentes: saeculo verbis solum, et non factis renunciantes: Vnusquisque sibi pla<g ref="char:EOLhyphen"/>centes et omnbus displicentes: vapulam ita{que} Ut meremur quas enim plagas, quae Verbera nonmeremur? quando nec confessores qui exemplo caeteris ad bonum esse debuerunt, te<g ref="char:EOLhyphen"/>nent disciplinam Ita{que} dum quosdam inso<g ref="char:EOLhyphen"/>lenter extollit confessionis suae tumida et in<g ref="char:EOLhyphen"/>verecunda iactatio, tormenta venerunt.</hi>
+               </p>
+               <pb facs="tcp:115545:15"/>
+               <p>
+                  <hi>It is to be understood and confessed, that, that tempestuous devastation of oppression which hath depopulated our flock for the most part, and doth yet wast it, hath befallen us according to our sins: whilst we stick not unto the way of God, nor ob<g ref="char:EOLhyphen"/>serve those heavenly praecepts, which are given us for our salvation. Our Lord did the will of his Father, but we do not the will of the Lord: But giving our selves to the pursuit of patrimo<g ref="char:EOLhyphen"/>ny and lucre, following after pride, yeelding up our hearts to aemulation and strife: Neglecting simplicity and fidelity, renouncing the world in words onely, and not in deeds, every one striving to please himselfe, and displeasing all others: We have justly deserved that rod which is upon our backs, for indeed what strokes or blowes do we not deserve, when neither the Confessors themselves, that stand for the defence of the truth and righte<g ref="char:EOLhyphen"/>ousnesse, who ought to have been an example of good unto others, do keep within the bounds of chri<g ref="char:EOLhyphen"/>stian discipline? And therefore whilst some are insolently puffed up with the swelling and im<g ref="char:EOLhyphen"/>modest boasting of their confession: The torments of persecution are come in.</hi>
+               </p>
+               <p>The God of heaven give us all grace to lay this grave <hi>Admonition</hi> of that pious witnesse of the truth of <hi>God</hi> unto our hearts, remembring that <hi>dreadfoll Position</hi> of the <hi>Apostle. Rom.</hi> 1.
+<pb facs="tcp:115545:15"/> 18. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+                  <hi>for the wrath of God is revealed from Heaven against all ungodlines and unrighte<g ref="char:EOLhyphen"/>ousnesse of men, who hold the truth in unrighte<g ref="char:EOLhyphen"/>ousnes</hi> where the <hi>Apostle</hi> tells us that the <hi>wrath of God is revealed against all unrighteousnes,</hi> so that though we approve our selves never so <hi>spot, les</hi> in point of <hi>Loyalty,</hi> or be never so free from <hi>faction</hi> or <hi>Sedition,</hi> yet if wee live in <hi>other sinnes,</hi> this will <hi>not deliver us from the wrath of God.</hi>
+               </p>
+               <p n="2">2dly That it is revealed especially, <hi>against those that hold the truth in unrighteousnesse,</hi> so that <hi>if we stand for truth, &amp; practise wickednes,</hi> the wickednesse of our lives is so much the more liable to Gods judgement, in as much as thereby we <hi>dishonour, that cause of truth which we stand for:</hi> and the same will blot and blemish the glory of our sufferings, and endanger us to fall short of our <hi>Crowne.</hi> And especially now that we are in some hope and expectation of de<g ref="char:EOLhyphen"/>liverance, let us take heed, as of fainting in those <hi>eadeavours,</hi> which right and loyalty <hi>engageth us unto,</hi> with the regards of our owne safety and happinesse, so, of <hi>falling back</hi> againe after all this <hi>Discipline</hi> that God hath sent upon us, into our <hi>former errors,</hi> and iniquities, to make void that blessing againe which we now look for: and to
+<pb facs="tcp:115545:16"/> expose us yet unto <hi>greater judgements.</hi> And especially let us looke unto the preservation of our <hi>charity,</hi> which is most in danger in such cases. That no violence or virulency, or injustice of our Enemies, nor any actions, or passions that we shall be engaged unto thereby, may shake us from our christian temper of mind, wherein this noble champion of fidelity and loyalty hath followed our blessed Saviour, and St. <hi>Stephen,</hi> and is lea<g ref="char:EOLhyphen"/>der unto us, and that in so eminent a manner, for our furtherance in the imitation whereof, give me leave, to commend unto you these seve<g ref="char:EOLhyphen"/>rall short meditations.</p>
+               <p>First consider, That there is no affliction be<g ref="char:EOLhyphen"/>falls us by our enemies, but it is by the <hi>appoint<g ref="char:EOLhyphen"/>ment of our gracious God.</hi>
+               </p>
+               <p n="2">2dly. That it is much <hi>lesse then the best of us have deserved</hi> from him by our <hi>sinnes.</hi>
+               </p>
+               <p n="3">3. That God hath been very gracious unto us in the <hi>kind of our sufferings,</hi> in that he hath done us the <hi>honour to suffer for righteousnesse sake.</hi>
+               </p>
+               <p n="4">4. That our adversaries, what ever their in<g ref="char:EOLhyphen"/>tentions are to our hurt or ruine, yet if wee re<g ref="char:EOLhyphen"/>ceive our afflictions as wee ought to do, they shall prove whether they will or no, <hi>The instru<g ref="char:EOLhyphen"/>ments of Gods mercy unto us:</hi> who useth them as <hi>Rods</hi> to <hi>correct</hi> and <hi>chastise</hi> his <hi>children</hi> for
+<pb facs="tcp:115545:16"/> their <hi>sinnes. As launces</hi> to open their <hi>tumors</hi> and let out their <hi>corruptions:</hi> as his <hi>drudges,</hi> to scour of the <hi>rust</hi> and <hi>filth</hi> that sticks upon us by reason of those <hi>dregs</hi> &amp; <hi>reliques</hi> of <hi>corruption</hi> that still remain in us whilst we are in this mor<g ref="char:EOLhyphen"/>tall Condition, and are to be wasted and con<g ref="char:EOLhyphen"/>sumed by the sanctified use of the <hi>Crosse,</hi> which the Lord is pleased apply unto us by their hand. That we may be presented <hi>pure</hi> and clean <hi>vessells of honour</hi> unto him <hi>fit for the Masters use.</hi>
+               </p>
+               <p n="5">5. That in our Christian sufferings consisteth our conformity <hi>unto Christ,</hi> the <hi>conquest and glory of our faith, Haec Palma victoriae nostrae, tali curra Triumphamus. This is the palme of our victory,</hi> saith <hi>Tertulli<g ref="char:EOLhyphen"/>an, This is the Chariot wherein we triumph.</hi> This is the <hi>narrow gate</hi> and the <hi>streight way, that leades unto everlasting life,</hi> and <hi>God</hi> makes our Enemies, and persecutors the meanes to <hi>crushus</hi> through this <hi>streight passage into heaven.</hi>
+               </p>
+               <p n="6">6thly. That all our Christian sufferings from them here, will be abuddantly <hi>recompenced</hi> with <hi>Glory</hi> hereafter. Every brier will beare a Rose in Heaven. Those <hi>Crownes of Thornes</hi> which they plat for us here, will be <hi>Crownes of Glory</hi> above. Let us therefore Banish all <hi>impati<g ref="char:EOLhyphen"/>ent,</hi> all <hi>uncharitable thoughts,</hi> and affections.
+<pb facs="tcp:115545:17"/> To conclude let me commend unto all the <hi>true-hearted christians of this Nation,</hi> (whose num<g ref="char:EOLhyphen"/>ber God increase, for there are too few of them, that advice which St. <hi>Paul,</hi> once gave unto the <hi>Philippians. Let your conversation be as be<g ref="char:EOLhyphen"/>commeth the Ghospell of Christ. stand fast with one Spirit, with one mind, Striving together for the faith of the Ghospell, and in nothing terrified by your Adversaries, which is to them an evi<g ref="char:EOLhyphen"/>dent token of perdition, but to you of Salvation, and that of God. For unto you it is given in the behalfe of Christ, not only to beleeve on him, but also to suffer for his sake. Vnto you it is given,</hi> therefore be not <hi>proud</hi> of it, you have not your <hi>patience</hi> nor your <hi>constancy</hi> nor your <hi>Christian fortitude</hi> from your selves. They are the <hi>guifts of God.</hi> and <hi>unto you it is given</hi> as a <hi>priviledge;</hi> as an <hi>honour,</hi> as an <hi>advantage.</hi> Therefore <hi>Be stedfast, unmoveable, quit your selves like men, and in due season, you shall reape if you faint not</hi> let us not by our <hi>impatience</hi> expose our selves to the <hi>scorne of our Adversaries</hi> and deprive our selves of the <hi>recompence</hi> w<seg rend="sup">ch</seg> is set before us; <hi>for our light affliction which is but for a moment, worketh for us a farre more exceeding and eter<g ref="char:EOLhyphen"/>nall waight of Glory.</hi> If we suffer with a <hi>Chri<g ref="char:EOLhyphen"/>stian affection.</hi> Which God grant unto us all, <hi>Amen.</hi>
+               </p>
+            </div>
+         </div>
+         <div type="poem">
+            <pb n="1" facs="tcp:115545:17"/>
+            <head>A TEARE Drop't at the memory of CAPTAINE BVRLEY MARTYRED, 1647.</head>
+            <l>
+               <seg rend="decorInit">T</seg>Were an unchristian temper to revile</l>
+            <l>The worst of Foes. I would <hi>baptize</hi> my stile</l>
+            <l>In <hi>Burley's innocence,</hi> &amp; then <hi>distill</hi>
+            </l>
+            <l>His sufferings through the <hi>Limbeck</hi> of my <hi>Quill.</hi>
+            </l>
+            <l>Whose <hi>Sister Springs</hi> do not <hi>ore flow</hi> with griefe,</l>
+            <l>To see a <hi>Subject</hi> suffer like a <hi>Theefe.</hi>
+            </l>
+            <l>
+               <hi>Prodigious</hi> this, the <hi>Kingdomes blazing Starre.</hi>
+            </l>
+            <l>The <hi>Proto-Martyr</hi> of a second Warre.</l>
+            <l>
+               <hi>Stephen</hi> and <hi>Thee hard harts</hi> have <hi>ston'd,</hi> Him then</l>
+            <l>The <hi>man of Iurie,</hi> Thee <hi>the Iurie-men.</hi>
+            </l>
+            <l>
+               <hi>Injustice doubles torments.</hi> We might lacke</l>
+            <l>A <hi>parallele</hi> else for <hi>Raviliacke.</hi>
+            </l>
+            <l>That <hi>vertue's Treason</hi> growne, hence I evince,</l>
+            <pb n="2" facs="tcp:115545:18"/>
+            <l>That <hi>Devill stabd,</hi> Thou wouldst have sav'd thy Prince</l>
+            <l>When <hi>armed burning glasses</hi> shal controul</l>
+            <l>Britaines <hi>great luminary</hi> to a <hi>hole,</hi>
+            </l>
+            <l>What <hi>wreaking soule</hi> steept in <hi>Religious</hi> Zeale</l>
+            <l>Would not <hi>enlarge his quarters with his steele?</hi>
+            </l>
+            <l>When <hi>two roomes</hi> shall alive <hi>coffin</hi> a <hi>King</hi>
+            </l>
+            <l>Who would not <hi>swallow Burglarie?</hi> to bring</l>
+            <l>The <hi>Royall Shadow</hi> into <hi>light</hi> againe.</l>
+            <l>Ventring <hi>his blood</hi> a <hi>medicine Soveraigne,</hi>
+            </l>
+            <l>Tis no pretended <hi>Paradox,</hi> maintain't:</l>
+            <l>The same may be a <hi>Soldier</hi> and a <hi>Saint.</hi>
+            </l>
+            <l>Well then <hi>triumphant soule</hi> wee'l henceforth call</l>
+            <l>Thee <hi>Michaells Lievtenant Generall.</hi>
+            </l>
+            <l>Were this our <hi>Amasa</hi> laid out in sight</l>
+            <l>'Twould stay an <hi>Host,</hi> not in pursuit but <hi>flight,</hi>
+            </l>
+            <l>Make <hi>Victory retreat,</hi> the <hi>King re-crowne:</hi>
+            </l>
+            <l>Thus every <hi>Limb</hi> might underproppe the <hi>Throne.</hi>
+            </l>
+            <l>Surely thy death <hi>Destruction</hi> did <hi>amaze.</hi>
+            </l>
+            <l>And th' <hi>Hangman</hi> did not <hi>execute</hi> but <hi>gaze.</hi>
+            </l>
+            <l>The <hi>Countrey</hi> were not <hi>Divells:</hi> they referre</l>
+            <l>The <hi>Tragedie</hi> to them at <hi>Westminster.</hi>
+            </l>
+            <l>
+               <hi>Actors</hi> are there inough, <hi>'twas never well</hi>
+            </l>
+            <l>
+               <hi>Since Pallace yard, had for its Neighbour Hell.</hi>
+            </l>
+            <l>While <hi>Furies raigne,</hi> tis no unlikelie thing.</l>
+            <l>To see men go to <hi>Heaven</hi> in a <hi>string.</hi>
+            </l>
+            <l>Nay, that <hi>selfe fellon, Malice is not hid,</hi>
+            </l>
+            <l>'T has chang'd each <hi>stake</hi> into a <hi>Pyramid.</hi>
+            </l>
+            <l>
+               <hi>State. Hieroglyphicks</hi> sure, for they in him</l>
+            <l>
+               <hi>Proclaime</hi> to th' <hi>kingdome</hi> whats their <hi>Sanedrim.</hi>
+            </l>
+            <pb n="3" facs="tcp:115545:18"/>
+            <l>
+               <hi>A drawne and quartard carkas, torne lime-meale</hi>
+            </l>
+            <l>
+               <hi>By covetous faction, and mis-guided zeale.</hi>
+            </l>
+            <l>
+               <hi>Wild horses of the mind, upon whom ride</hi>
+            </l>
+            <l>
+               <hi>As on the City, Asse, Treason and Pride.</hi>
+            </l>
+            <l>But great <hi>hast</hi> spoyles <hi>good speed, when th'highwaies sinne</hi>
+            </l>
+            <l>
+               <hi>The Devil is the mounted Beggars Inne.</hi>
+            </l>
+            <l>Cunning <hi>State-Lapidaries,</hi> who nere could</l>
+            <l>
+               <hi>Hammer</hi> such<note place="margin">St<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Ca<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> bu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Be<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Ye<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> To<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> C<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>ct<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </note> pretious <hi>Adamants,</hi> with <hi>blood,</hi>
+            </l>
+            <l>(Nay and their own) <hi>they melt them:</hi> make us <hi>weak</hi>
+            </l>
+            <l>And so <hi>dissolve,</hi> what they could never <hi>break.</hi>
+            </l>
+            <l>Think, think, you <hi>Tyrant Subjects,</hi> what y' have got</l>
+            <l>Those <hi>Heaven embalmed Reliques</hi> cannot Rot.</l>
+            <l>His <hi>ayre. swolne Limbs</hi> like <hi>Trumpets North,</hi> and <hi>West,</hi>
+            </l>
+            <l>Shall sound a <hi>charge</hi> to every <hi>English breast.</hi>
+            </l>
+            <l>Those <hi>Stakes</hi> for's martird flesh, will <hi>sticks</hi> appeare</l>
+            <l>To beat the <hi>Drumme</hi> of everie <hi>Loyall eare.</hi>
+            </l>
+            <l>Each <hi>panting heart</hi> will an <hi>Alarum</hi> be,</l>
+            <l>
+               <hi>Thus for the King you have raised more then he.</hi>
+            </l>
+            <l>
+               <hi>Newters</hi> those <hi>floating Isles of man</hi> shall be</l>
+            <l>Henceforth <hi>firme continent</hi> for <hi>Monarchie.</hi>
+            </l>
+            <l>His <hi>Name</hi> will <hi>mutiny</hi> without controule,</l>
+            <l>And cause an <hi>Hurly burly</hi> in each soule,</l>
+            <l>Thus having <hi>rays'd an Army</hi> by his <hi>fall.</hi>
+            </l>
+            <l>
+               <hi>Looke to your Gates: his blood's the Haniball.</hi>
+            </l>
+            <l>Your <hi>cashierd consciences will then to late</hi>
+            </l>
+            <l>
+               <hi>Parley,</hi> when <hi>Innocence</hi> has forc't the <hi>Gate.</hi>
+            </l>
+            <l>
+               <hi>Blood guiltines is the soules crampe, it feeles,</hi>
+            </l>
+            <l>
+               <hi>By it its faculties tyed necke and heeles:</hi>
+            </l>
+            <l>Yours may be <hi>bug-board</hi> by a <hi>Drum.</hi> but His</l>
+            <pb n="4" facs="tcp:115545:19"/>
+            <l>
+               <hi>Warrs Chorister</hi> hath <hi>Anthem'd</hi> into <hi>blisse</hi>
+            </l>
+            <l>Th <hi>Ephesian Temple Priest Erostratus,</hi>
+            </l>
+            <l>At one act <hi>graspt</hi> at being <hi>glorious.</hi>
+            </l>
+            <l>Like in <hi>intent</hi> thou art, not in <hi>desire:</hi>
+            </l>
+            <l>Thy <hi>Temple's sacrific'd,</hi> but without <hi>fire.</hi>
+            </l>
+            <l>But lest thy <hi>flesh revive,</hi> and <hi>raise</hi> new <hi>stirres,</hi>
+            </l>
+            <l>Perhaps th'have <hi>brib'd</hi> those <hi>feather'd Presbyters.</hi>
+            </l>
+            <l>To <hi>impe</hi> their endles <hi>malice,</hi> for who knowes</l>
+            <l>But thou'lt againe <hi>be quartered by the Crowes.</hi>
+            </l>
+            <l>On the <hi>Drum head</hi> how ere enroll his <hi>name,</hi>
+            </l>
+            <l>T'is <hi>Epitaph</hi> inough <hi>Eccho'd by Fame.</hi>
+            </l>
+            <div type="part">
+               <head>ON THE DEATH OF CAPTAINE <hi>BVRLEY.</hi>
+               </head>
+               <l>I Knew thee not, but <hi>ignorance</hi> of thy <hi>Name</hi>
+               </l>
+               <l>Speakes a meere <hi>Punic</hi> in the <hi>Bookes of Fame.</hi>
+               </l>
+               <l>Shee with the active <hi>tempest</hi> of her <hi>breath,</hi>
+               </l>
+               <l>Hath <hi>hurried</hi> thee a <hi>pitch</hi> beyond thy <hi>death.</hi>
+               </l>
+               <l>
+                  <hi>Thou art encreas'd,</hi> and <hi>Death</hi> was <hi>foyld</hi> in thee,</l>
+               <l>
+                  <hi>Scatt ring</hi> the <hi>Captaine</hi> to a <hi>Companie.</hi>
+               </l>
+               <l>It was no <hi>puling Fate.</hi> He scorn'd to <hi>sneake,</hi>
+               </l>
+               <l>And keep his <hi>frame entire,</hi> when it should <hi>breake.</hi>
+               </l>
+               <l>
+                  <hi>Tame expirations of the Pillow!</hi> Hee</l>
+               <l>Calld for a <hi>greater ruine</hi> than you bee.</l>
+               <l>Hee did not only <hi>suffer</hi> at the <hi>hart,</hi>
+               </l>
+               <l>But like the <hi>Soule. plac'd death in everie part.</hi>
+               </l>
+               <pb n="5" facs="tcp:115545:19"/>
+               <l>
+                  <hi>Stretch't the leaue shade,</hi> and I beleeve that <hi>Shee</hi>
+               </l>
+               <l>Found not a <hi>Conquest,</hi> but a <hi>Rack</hi> of thee.</l>
+               <l>Here was a <hi>ruine</hi> equall to our <hi>Case,</hi>
+               </l>
+               <l>BVRLEY's an <hi>Armnie scatterd</hi> in one <hi>face.</hi>
+               </l>
+               <l>Come you <hi>dark-lanthorns</hi> of the <hi>new found Light,</hi>
+               </l>
+               <l>Our <hi>Church</hi> is <hi>anchor'd</hi> in the <hi>Isle of Wright.</hi>
+               </l>
+               <l>CHARLES is her <hi>head,</hi> and <hi>Burley</hi> made it good:</l>
+               <l>T'was not a <hi>Souldiers,</hi> but a <hi>Martyrs</hi> blood.</l>
+               <l>Hee died <hi>Rebellion-proofe,</hi> and made us know</l>
+               <l>
+                  <hi>Allegiance ought to be preserv'd, and how.</hi>
+               </l>
+               <l>His <hi>passive valour</hi> out went <hi>Action,</hi> then</l>
+               <l>We act as <hi>Christians,</hi> who before were <hi>men.</hi>
+               </l>
+               <l>His last breath on our <hi>Lawes</hi> did <hi>Comments</hi> write,</l>
+               <l>And with his <hi>purple maximes</hi> prov'd 'em <hi>white.</hi>
+               </l>
+               <l>This made them <hi>scatter</hi> the <hi>Records,</hi> for they</l>
+               <l>The Soule being <hi>Fledg'd,</hi> did <hi>separate</hi> the <hi>Clay.</hi>
+               </l>
+               <l>Yet <hi>Quarterd</hi> thus, each <hi>parcell</hi> is a <hi>Tome.</hi>
+               </l>
+               <l>Compar'd to w<seg rend="sup">ch</seg>, <hi>Prinnes Margins</hi> will be none.</l>
+               <l>
+                  <hi>He fell our Charters Martyr, and did draw</hi>
+               </l>
+               <l>
+                  <hi>In his best blood the Pandects of the Law.</hi>
+               </l>
+            </div>
+            <div type="part">
+               <head>III. ON THE DEATH OF THE NOBLE CHAMPION OF LOYALTY CAPTAINE <hi>BVRLEY.</hi>
+               </head>
+               <lg>
+                  <l>COuld <hi>Roman Souldiers,</hi> when <hi>Caesars</hi> name</l>
+                  <l>Was once but <hi>toucht,</hi> light such <hi>revengful flame</hi>
+                  </l>
+                  <pb n="6" facs="tcp:115545:20"/>
+                  <l>As would <hi>devour</hi> his <hi>Enemies?</hi> and shall</l>
+                  <l>Our <hi>Charles</hi> be hurried to his <hi>Funerall</hi>
+                  </l>
+                  <l>Without <hi>resistance?</hi> No, heres <hi>one</hi> has mixt</l>
+                  <l>His <hi>Valour</hi> so with <hi>Loyalty,</hi> that hee's fixt</l>
+                  <l>On all <hi>adventures</hi> for to save his <hi>Prince.</hi>
+                  </l>
+                  <l>Happy <hi>successe</hi> implor'd for <hi>recompence.</hi>
+                  </l>
+                  <l>But he not <hi>seconded</hi> by prosperous <hi>Fate,</hi>
+                  </l>
+                  <l>Proves (<hi>like</hi> his <hi>Prince</hi>) too too <hi>unfortunate.</hi>
+                  </l>
+                  <l>No <hi>Action</hi> yet, scarce were his <hi>thoughts</hi> compos'd</l>
+                  <l>For high <hi>attempts,</hi> ere that he was oppos'd</l>
+                  <l>By <hi>jealousies</hi> let <hi>lesser Starres</hi> decline</l>
+                  <l>Their <hi>borrowed light,</hi> and then forbeare to <hi>shine,</hi>
+                  </l>
+                  <l>When that their <hi>Sun's obscur'd, Rivers</hi> ne're <hi>glide</hi>
+                  </l>
+                  <l>In current <hi>streames,</hi> when once their <hi>Fountaine's dried.</hi>
+                  </l>
+                  <l>Yet lively <hi>blood</hi> returning to the <hi>hart,</hi>
+                  </l>
+                  <l>Does <hi>gratefully,</hi> what it receiv'd, <hi>impart.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>Hee's <hi>apprehended:</hi> to such a place <hi>confin'd</hi>
+                  </l>
+                  <l>Of <hi>darkenesse,</hi> that had not his: <hi>conscience shin'd</hi>
+                  </l>
+                  <l>With <hi>rayes</hi> of <hi>Innocence,</hi> he might have thought.</l>
+                  <l>Not he to <hi>Hell,</hi> but <hi>Hell</hi> to him was brought.</l>
+                  <l>No <hi>Furies</hi> here, but sacred <hi>Zeale</hi> does keepe,</l>
+                  <l>It's <hi>Watch</hi> and <hi>larum Heaven</hi> in the <hi>deepe.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>When thus <hi>perplext,</hi> yet well <hi>resolv'd to die,</hi>
+                  </l>
+                  <l>To <hi>hasten Fates,</hi> would be a <hi>courtesie.</hi>
+                  </l>
+                  <l>
+                     <hi>Bring him to th' Barre:</hi> bring his <hi>accusers</hi> too.</l>
+                  <l>No <hi>mercies</hi> cran'd, see what can <hi>Iustice</hi> doe.</l>
+                  <l>Accus'd of <hi>Treason?</hi> who's so void of sense</l>
+                  <l>To think it <hi>Treason</hi> to <hi>defend his Prince;</hi>
+                  </l>
+                  <l>
+                     <hi>Vote a new Name,</hi> it cannot <hi>reason</hi> be,</l>
+                  <pb n="7" facs="tcp:115545:20"/>
+                  <l>To stile <hi>Defended injurd Majestie.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>Let <hi>Witnesses</hi> avouch the <hi>guilt</hi> and prove</l>
+                  <l>The hainous <hi>Crime</hi> of this suspected <hi>Love:</hi>
+                  </l>
+                  <l>
+                     <hi>Burley has brib'd 'em.</hi> He has more <hi>confest,</hi>
+                  </l>
+                  <l>(If t'were a crime) then <hi>Malice</hi> ere could <hi>wrest</hi>
+                  </l>
+                  <l>From all their <hi>Oaths,</hi> and yet the <hi>twelve</hi> combin'd</l>
+                  <l>
+                     <hi>(Impanneld Im-Peeres)</hi> can him <hi>guilty</hi> find.</l>
+                  <l>The <hi>Iudge</hi> is turned <hi>Sergeant</hi> unto <hi>Death,</hi>
+                  </l>
+                  <l>
+                     <hi>'Rests</hi> him for <hi>Natures debt;</hi> which by his <hi>breath</hi>
+                  </l>
+                  <l>Can only be <hi>discharg'd,</hi> the <hi>Termes</hi> expresse</l>
+                  <l>Of's sentence: <hi>murder</hi> in its <hi>Sunday-dresse.</hi>
+                  </l>
+                  <l>
+                     <hi>Conscience</hi> is <hi>banisht, Law</hi> is ridden <hi>Post:</hi>
+                  </l>
+                  <l>
+                     <hi>Astraea</hi> harbours in another <hi>Coast.</hi>
+                  </l>
+                  <l>No <hi>Goshen</hi> here, where <hi>Channells</hi> stream with <hi>blood,</hi>
+                  </l>
+                  <l>And from each Quarter swell into a <hi>Flood.</hi>
+                  </l>
+                  <l>No <hi>passage</hi> now unto the <hi>holie land,</hi>
+                  </l>
+                  <l>Unles the <hi>Red-Sea</hi> does devided stand</l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>Hee's dead:</hi> nor can <hi>I</hi> think to <hi>die</hi> he fear'd</l>
+                  <l>That was by frequent <hi>Sea-stormes</hi> still prepar'd.</l>
+                  <l>Could not a <hi>floating Billow</hi> be his <hi>Tomb,</hi>
+                  </l>
+                  <l>And <hi>bury</hi> him in <hi>Amphitrite s wombe?</hi>
+                  </l>
+                  <l>Or could not <hi>Landsdowne</hi> grant him leave to have</l>
+                  <l>A <hi>Pyramid</hi> of <hi>fire,</hi> instead of s <hi>Grave?</hi>
+                  </l>
+                  <l>And like <hi>Eliah</hi> climbe eternitie</l>
+                  <l>Within a <hi>flaming chariot;</hi> but must be</l>
+                  <l>By <hi>Providence irresistible</hi> freed</l>
+                  <l>From <hi>Fire and Water,</hi> on the land to bleed?</l>
+                  <l>
+                     <hi>Iobes Wife</hi> would here teach how to punish <hi>Fate,</hi>
+                  </l>
+                  <l>And what cann't be <hi>prevented,</hi> for to <hi>hate.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <pb n="8" facs="tcp:115545:21"/>
+                  <l>Noe <hi>roome</hi> for such <hi>perswasions:</hi> He will tread</l>
+                  <l>The <hi>Churches path,</hi> which <hi>patient Iob</hi> has led.</l>
+                  <l>And crowne his <hi>innocent</hi> and <hi>wretched</hi> dayes</l>
+                  <l>With so much <hi>patience,</hi> that shall <hi>amaze</hi>
+                  </l>
+                  <l>His cruell <hi>Enemies,</hi> those that forbid him live</l>
+                  <l>He not more <hi>pitties,</hi> than he does <hi>forgive.</hi>
+                  </l>
+                  <l>His sad condoling <hi>Wife</hi> he does <hi>conjure</hi>
+                  </l>
+                  <l>By <hi>Hymens dearest bands,</hi> not to procure</l>
+                  <l>Or seek <hi>Revenge,</hi> as if his word should make</l>
+                  <l>Others their <hi>Love</hi> and <hi>Nature</hi> to <hi>forsake</hi>
+                  </l>
+                  <l>At his <hi>Request,</hi> thus he <hi>put off man,</hi>
+                  </l>
+                  <l>And shewd himselfe <hi>a perfect Christian.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>Ioy</hi> mixt with <hi>sorrow</hi> does my soule <hi>divide</hi>
+                  </l>
+                  <l>Since that <hi>he must,</hi> that he so <hi>bravely died.</hi>
+                  </l>
+                  <l>
+                     <hi>Teares</hi> shall distill in streames for <hi>griefe,</hi> and when</l>
+                  <l>They are wip't off, <hi>Ile crie</hi> for <hi>Ioy</hi> agen.</l>
+               </lg>
+               <lg>
+                  <l>Rest now <hi>blest Soule,</hi> and (whats to us deni'd)</l>
+                  <l>Enjoy of peace an <hi>everlasting tide.</hi>
+                  </l>
+                  <l>It would be <hi>Sacriledge</hi> to doubt at all</l>
+                  <l>Thy happines, when that thy <hi>funerall</hi>
+                  </l>
+                  <l>Speakes thee true <hi>Saint,</hi> to the <hi>Elizium</hi>
+                  </l>
+                  <l>A <hi>knowne,</hi> not <hi>beaten</hi> way is <hi>Martyrdome.</hi>
+                  </l>
+                  <l>
+                     <hi>London</hi> and <hi>Bristoll</hi> would be for the <hi>first</hi>
+                  </l>
+                  <l>
+                     <hi>Martyrs,</hi> and <hi>Winchester</hi> for <hi>thee</hi> accurst,</l>
+                  <l>Did not your <hi>Bones</hi> (nay if but <hi>Reliques</hi> found)</l>
+                  <l>Both <hi>antidote</hi> and <hi>consecrate</hi> the ground.</l>
+                  <l>The <hi>Gibbet</hi> shall hereafter be had more</l>
+                  <l>In our <hi>repute,</hi> than <hi>hated</hi> twas before.</l>
+                  <l>And if it lawfull were of <hi>Deaths</hi> to take</l>
+                  <pb n="9" facs="tcp:115545:21"/>
+                  <l>My <hi>choyce,</hi> Il'd choose the <hi>Gallows</hi> for thy sake,</l>
+                  <l>Let <hi>timerous spirits</hi> to <hi>dull ashes</hi> turne,</l>
+                  <l>
+                     <hi>Neglected</hi> lie, <hi>deprived</hi> of an <hi>Vrne:</hi>
+                  </l>
+                  <l>That never could, <hi>unles</hi> on <hi>vertue frowne,</hi>
+                  </l>
+                  <l>And pay their cheefest <hi>Votes</hi> to die in <hi>Downe:</hi>
+                  </l>
+                  <l>Let their <hi>memoriall,</hi> vanish and so passe</l>
+                  <l>Away more nimble than their <hi>Fatall glasse,</hi>
+                  </l>
+                  <l>Whilst thou shalt <hi>live</hi> by <hi>death,</hi> and by it raise</l>
+                  <l>
+                     <hi>Trophies</hi> beyond the number of thy <hi>dayes.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>Wee'l tract thy <hi>footsteps, gain</hi> what thou hast <hi>lost,</hi>
+                  </l>
+                  <l>And for successe, we will implore thy <hi>Ghost.</hi>
+                  </l>
+                  <l>And whosoere doth <hi>fall</hi> shall on this <hi>Stone</hi>
+                  </l>
+                  <l>Have this engrav'd. Heres one of <hi>Burleys Sons.</hi>
+                  </l>
+                  <l>Of <hi>Burley's</hi> who <hi>hangd, drawne</hi> and <hi>quarterd died</hi>
+                  </l>
+                  <l>
+                     <hi>For loyall treason,</hi> and for <hi>Rebells pride.</hi>
+                  </l>
+                  <l>This <hi>loyall Martyr hangd</hi> and <hi>quarterd paint</hi>
+                  </l>
+                  <l>In his <hi>Vermilion,</hi> and y' <hi>have drawne a Saint.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div type="part">
+               <head>ON CAPTAINE <hi>BURLEY,</hi> MARTYRD FOR KING CHARLES, AND MVRTHER'D By THE MEN AT <hi>WESTMINSTER.</hi>
+               </head>
+               <l>IS <hi>Burley</hi> dead? who sayes his <hi>stifled</hi> breath</l>
+               <l>Was his life's <hi>period, lies,</hi> and <hi>scandalls death.</hi>
+               </l>
+               <l>Nay <hi>hangs him once again,</hi> and <hi>wrongs</hi> him more,</l>
+               <l>Then did the <hi>Hangmen-Iudges</hi> all before.</l>
+               <pb n="10" facs="tcp:115545:22"/>
+               <l>No! hee <hi>lives still,</hi> and <hi>fresh,</hi> and <hi>like his name</hi>
+               </l>
+               <l>Is <hi>treasurer</hi> of a <hi>New life</hi> and <hi>fame:</hi>
+               </l>
+               <l>So neer <hi>immortall,</hi> it were scarce a lie,</l>
+               <l>To say it must <hi>out-last eternity.</hi>
+               </l>
+               <l>So innocently good, and free from staines,</l>
+               <l>He <hi>hangs</hi> alone, his <hi>murtherers</hi> in <hi>chaines.</hi>
+               </l>
+               <l>And by a <hi>Lawfull,</hi> and <hi>new sinlesse</hi> art,</l>
+               <l>
+                  <hi>Revenges,</hi> and <hi>returnes</hi> the <hi>Shooters dart,</hi>
+               </l>
+               <l>A <hi>pious</hi> peice of <hi>mischeife,</hi> and may bee</l>
+               <l>Intitled well a <hi>martyrd mistery,</hi>
+               </l>
+               <l>Or a <hi>misterious martirdome:</hi> so high,</l>
+               <l>And full of <hi>Patience, Valour, Loyaltie:</hi>
+               </l>
+               <l>That who his storie reades alone, shall look</l>
+               <l>As on a trifle, on all <hi>Fox</hi> his book.</l>
+               <l>And be assur'd bright <hi>soule,</hi> while <hi>Charles</hi> his name</l>
+               <l>Is blowne abroad by the just <hi>trump</hi> of <hi>Fame,</hi>
+               </l>
+               <l>For all that's great or <hi>good:</hi> (in spite of all</l>
+               <l>The <hi>dogges barke</hi> at our <hi>Sun Imperiall:</hi>)</l>
+               <l>Thy Noble <hi>suffering</hi> for him shall be seene.</l>
+               <l>And honour d next unto <hi>himselfe,</hi> and <hi>Queene;</hi>
+               </l>
+               <l>A <hi>peerelesse pair of Princes</hi> in whose times,</l>
+               <l>
+                  <hi>Might</hi> conquerd <hi>right,</hi> &amp; gaind a <hi>crown</hi> by <hi>crimes;</hi>
+               </l>
+               <l>Thrice happy Burley! who so soon art laid</l>
+               <l>In such a <hi>heat of sin,</hi> in such <hi>a shade;</hi>
+               </l>
+               <l>And this I le adde more to thy praise and pride,</l>
+               <l>Had st thou till <hi>Domsday liv'd,</hi> th'ad'st <hi>sooner died</hi>
+               </l>
+            </div>
+            <div type="part">
+               <pb n="11" facs="tcp:115545:22"/>
+               <head>
+                  <hi>Monumentum Fidelitatis.</hi> A Memoriall of the Noble and Loyall CAPT. <hi>BURLEY.</hi>
+               </head>
+               <l>TI's sad employment, when our Freinds do dye,</l>
+               <l>To <hi>melt</hi> in <hi>teares,</hi> or write an <hi>Elegie;</hi>
+               </l>
+               <l>But tis <hi>a duty</hi> which neglected, Wee</l>
+               <l>From imputation cannot well be free.</l>
+               <l>If we to <hi>Nature,</hi> or to <hi>wit</hi> pretend,</l>
+               <l>Who can nor <hi>weepe,</hi> nor <hi>write,</hi> hee is no <hi>freind:</hi>
+               </l>
+               <l>Nor worthy to bemoane thy <hi>Noble Fate.</hi>
+               </l>
+               <l>The third grand <hi>Martyr</hi> of a <hi>Tyrant State:</hi>
+               </l>
+               <l>
+                  <hi>Burley;</hi> nor doth my modest pen presume</l>
+               <l>To be compos'd of so aspiring <hi>Plume,</hi>
+               </l>
+               <l>As to reach thee; who art so brave a thing,</l>
+               <l>As <hi>scorn'd A life, to save a dying King.</hi>
+               </l>
+               <l>For <hi>Kings</hi> have <hi>Double Deathes</hi> of <hi>Nature</hi> one,</l>
+               <l>Another by <hi>A State privation;</hi>
+               </l>
+               <l>From which how much must all good Men esteeme</l>
+               <l>Him, who would either <hi>dy</hi> or else redeeme.</l>
+               <l>
+                  <hi>Thy cause embalmes thee;</hi> while the varied Verse,</l>
+               <l>Of all <hi>Apolloe's</hi> Sonnes adornes thy <hi>Herse:</hi>
+               </l>
+               <l>Whyle <hi>friends in Nature</hi> weepe thy <hi>Obsequies,</hi>
+               </l>
+               <l>Thy <hi>Freinds in honour,</hi> have erected <hi>Eyes:</hi>
+               </l>
+               <l>And look in some sublimer <hi>Orbe,</hi> to see</l>
+               <l>If plac't thou there <hi>A constellation be.</hi>
+               </l>
+               <pb n="12" facs="tcp:115545:23"/>
+               <l>And from the <hi>influence</hi> of thy <hi>Noble soule,</hi>
+               </l>
+               <l>Learn not <hi>to shune a fate,</hi> but to <hi>Controll.</hi>
+               </l>
+               <l>For hee <hi>who meetes a death, without a feare,</hi>
+               </l>
+               <l>
+                  <hi>Or'e Death it selfe, becomes a Conquerour.</hi>
+               </l>
+               <l>Where thy black <hi>Murtherers</hi> another day,</l>
+               <l>Shall from the <hi>Earth</hi> with trembling <hi>sneake away:</hi>
+               </l>
+               <l>And <hi>unlamented</hi> as <hi>unhonerd</hi> dye:</l>
+               <l>Without or <hi>Epitaph</hi> or <hi>Obsequie.</hi>
+               </l>
+               <l>
+                  <hi>Leaving no more A Chronicle to fill,</hi>
+               </l>
+               <l>
+                  <hi>Then that they did 'gainst Lawes, and Conscience kill:</hi>
+               </l>
+               <l>When as <hi>loud-speaking</hi> and <hi>long lasting fame;</hi>
+               </l>
+               <l>Shall fill her <hi>Trumpets</hi> with thy <hi>glorious Name.</hi>
+               </l>
+               <l>And when the <hi>last</hi> shall blow, and thou appeare</l>
+               <l>Amongst the <hi>Martyrs</hi> to thy Saviour deare:</l>
+               <l>Those <hi>Caitiffs</hi> shall surpris'd with horrour <hi>flee:</hi>
+               </l>
+               <l>And aske the way to <hi>Hell,</hi> at seeing thee.</l>
+               <l>And by their <hi>Guilt</hi> anticipate their Doome,</l>
+               <l>
+                  <hi>Rebells with Martyrs cannot hou'd one Roome.</hi>
+               </l>
+               <closer>
+                  <signed>C. A.</signed>
+               </closer>
+            </div>
+            <div type="part">
+               <pb n="13" facs="tcp:115545:23"/>
+               <head>AN <hi>ELEGIE.</hi> In memoriall of the worthy CAPTAINE BARLEY, who was executed for endea<g ref="char:EOLhyphen"/>vouring to release his Mejesty King <hi>Charles</hi> from the Isle of <hi>WIGHT.</hi> 1648,</head>
+               <byline>By <hi>I. M.</hi>
+               </byline>
+               <l>AM <hi>I awake?</hi> or <hi>dreame?</hi> Who is it tells</l>
+               <l>These Men have <hi>faith,</hi> whom we find <hi>Infidells,</hi>
+               </l>
+               <l>With strange <hi>Dilemma's</hi> is my soule perplext</l>
+               <l>On this side <hi>horror, murder</hi> on the next.</l>
+               <l>A suddaine passion seizes on my <hi>hart:</hi>
+               </l>
+               <l>My <hi>blood</hi> strives too, as if they <hi>both would part.</hi>
+               </l>
+               <l>
+                  <hi>Burley</hi> is dead, Shot like a <hi>falling Starre:</hi>
+               </l>
+               <l>And is true <hi>Captaine</hi> in another warre.</l>
+               <l>
+                  <hi>Condemned</hi> for <hi>Loyaltie!</hi> tis strange, yet true.</l>
+               <l>Once more <hi>Astrea</hi> bids the world adieu.</l>
+               <l>His <hi>Iuries braines</hi> were <hi>mixt</hi> with so much <hi>clay</hi>
+               </l>
+               <l>They hardly could distinguish <hi>night</hi> from <hi>day:</hi>
+               </l>
+               <l>How shall my words in due proportion keepe,</l>
+               <l>When <hi>discord swells</hi> like <hi>billowes</hi> in the deepe?</l>
+               <l>He did not <hi>loose</hi> his life, but was <hi>beguild:</hi>
+               </l>
+               <l>No safety there, when as the <hi>Iudge</hi> is <hi>Wild.</hi>
+               </l>
+               <l>These are the <hi>bloody Herods,</hi> who are bent</l>
+               <pb n="14" facs="tcp:115545:24"/>
+               <l>VVith <hi>guiltie,</hi> to destroy the <hi>innocent.</hi>
+               </l>
+               <l>The World to its first <hi>Chaos</hi> now reflects.</l>
+               <l>Here's <hi>Babell,</hi> not of <hi>languages,</hi> but <hi>Sects:</hi>
+               </l>
+               <l>Like <hi>Phillips Clisophi,</hi> these people <hi>halt</hi>
+               </l>
+               <l>After the time, accounting <hi>goodnesse fault.</hi>
+               </l>
+               <l>Their <hi>torrid Zone parches our temperate clime.</hi>
+               </l>
+               <l>And <hi>Nilus</hi> choakes us with <hi>corrupted slime.</hi>
+               </l>
+               <l>Send <hi>Noahs Dove,</hi> and twill return in hast,</l>
+               <l>To certifie our <hi>Deluge</hi> is not past.</l>
+               <l>Noe <hi>place</hi> for <hi>loyaltie</hi> to set her <hi>feet.</hi>
+               </l>
+               <l>
+                  <hi>Treasons</hi> vast <hi>waves</hi> are all the <hi>bounds</hi> we meet.</l>
+               <l>
+                  <hi>Ignorance</hi> is exhald in <hi>vapours,</hi> who</l>
+               <l>(Not hearing of our better times) shall view</l>
+               <l>Our <hi>Island</hi> through them, will not swear that wee</l>
+               <l>Are in an <hi>Vniversall Lunacie;</hi>
+               </l>
+               <l>Some, like <hi>materia prima, un-refin'd,</hi>
+               </l>
+               <l>Comprehend <hi>all impressions</hi> in their mind:</l>
+               <l>Having the <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> of disorder, nay</l>
+               <l>Proving we <hi>erre,</hi> except we <hi>go astray:</hi>
+               </l>
+               <l>The <hi>Nomalists</hi> may well be stiled now,</l>
+               <l>
+                  <hi>Grand Patrons</hi> unto <hi>Loyaltie.</hi> We bow</l>
+               <l>To Living Idolls: <hi>Daughters</hi> some do prize</l>
+               <l>Like <hi>Agamemnon,</hi> for their <hi>Sacrifice.</hi>
+               </l>
+               <l>Their <hi>Superstition</hi> brings upon the <hi>Stage,</hi>
+               </l>
+               <l>A new rays'd <hi>Primum mobile,</hi> Whose rage</l>
+               <l>Ravishes all the <hi>Spheres</hi> of <hi>Government,</hi>
+               </l>
+               <l>Except <hi>reverting</hi> lust as they are <hi>bent.</hi>
+               </l>
+               <l>
+                  <hi>Democritus</hi> might <hi>weepe,</hi> not laugh to see</l>
+               <l>This <hi>Metamorphosis,</hi> when <hi>Monarchs</hi> bee</l>
+               <pb n="15" facs="tcp:115545:24"/>
+               <l>Trampled on by their <hi>Subjects:</hi> but what then;</l>
+               <l>
+                  <hi>Vertue's not knowne without mischance to men.</hi>
+               </l>
+               <l>
+                  <hi>Reason's</hi> as naked as an <hi>Adamite.</hi>
+               </l>
+               <l>That is term'd <hi>Zeale,</hi> which we might construe <hi>spight.</hi>
+               </l>
+               <l>A <hi>Laughing vizard</hi> vayles a <hi>killing face.</hi>
+               </l>
+               <l>To live in <hi>favour</hi> now is most <hi>disgrace.</hi>
+               </l>
+               <l>
+                  <hi>Spirituall-cholerick criticks,</hi> who in all</l>
+               <l>
+                  <hi>Religions</hi> find a <hi>fault:</hi> One day this shall</l>
+               <l>Be your best <hi>choyce</hi> that <hi>next invades</hi> your <hi>harts.</hi>
+               </l>
+               <l>The true one thus by <hi>Ostracisme</hi> departs.</l>
+               <l>Our Streetes (like <hi>Romes</hi> in <hi>Sylla's</hi> dayes) do runne</l>
+               <l>With <hi>native blood. hee's happiest is undone.</hi>
+               </l>
+               <l>
+                  <hi>Zorobabel's</hi> convinc t: <hi>Money</hi> is found</l>
+               <l>
+                  <hi>Stronger</hi> than <hi>Truth,</hi> and lay's her on the <hi>ground.</hi>
+               </l>
+               <l>There is no clue for this <hi>Dedalion</hi> maze.</l>
+               <l>
+                  <hi>Loyaltie's Treason, Infamy is praise.</hi>
+               </l>
+               <l>The World s to <hi>subtile</hi> for an <hi>honest man:</hi>
+               </l>
+               <l>No roome but for a <hi>Machivilian.</hi>
+               </l>
+               <l>All braines do <hi>teeme</hi> with <hi>mischiefe,</hi> as with joy:</l>
+               <l>Transporting more then <hi>Hecub s</hi> wombe to <hi>Troy.</hi>
+               </l>
+               <l>The <hi>drunken fumes</hi> of bold <hi>Ambition,</hi>
+               </l>
+               <l>Makes their <hi>soules reele, and dash</hi> against <hi>each stone,</hi>
+               </l>
+               <l>But HE goes to his grave as <hi>Courtiers woe,</hi>
+               </l>
+               <l>
+                  <hi>Calmelie,</hi> Not <hi>struggling</hi> as the <hi>Traytors doe.</hi>
+               </l>
+               <l>These like a <hi>Iezabell</hi> where beauties scant,</l>
+               <l>
+                  <hi>Vermilion</hi> shall adulterate the want.</l>
+               <l>Oh would their <hi>pride</hi> might purchase their just <hi>fall;</hi>
+               </l>
+               <l>That <hi>Doggs</hi> might <hi>celebrate</hi> their <hi>Funerall.</hi>
+               </l>
+               <l>Thus <hi>Absolom</hi> by flatterrie stole the <hi>bart</hi>
+               </l>
+               <pb n="16" facs="tcp:115545:25"/>
+               <l>Of <hi>Israell</hi> by a pretended <hi>Art.</hi>
+               </l>
+               <l>Thus <hi>Euphuia</hi> oft times is so like <hi>Grace</hi>
+               </l>
+               <l>That it is taken for it by the <hi>face.</hi>
+               </l>
+               <l>But pull the <hi>vizard</hi> off, and you may know</l>
+               <l>The <hi>Whister's</hi> but the <hi>Prologue</hi> to the <hi>Show.</hi>
+               </l>
+               <l>Ir would enrage a <hi>Stoik Martyr, Saint,</hi>
+               </l>
+               <l>A <hi>Coward</hi> too, to see a <hi>Pursivant,</hi>
+               </l>
+               <l>Sent from the <hi>new-found States</hi> to take away</l>
+               <l>The <hi>taper from</hi> our <hi>night,</hi> the light from <hi>day.</hi>
+               </l>
+               <l>And in his <hi>Zodiake</hi> to empale our <hi>Sun,</hi>
+               </l>
+               <l>Who else might <hi>unconfined</hi> swiftly <hi>runne</hi>
+               </l>
+               <l>To either <hi>Tropicke,</hi> and this <hi>man</hi> struck <hi>dead,</hi>
+               </l>
+               <l>For striving to <hi>release</hi> his <hi>Royall head.</hi>
+               </l>
+               <l>For this let all our <hi>candles</hi> in a <hi>fright</hi>
+               </l>
+               <l>
+                  <hi>Burne</hi> out themselves, and so defraud us <hi>light.</hi>
+               </l>
+               <l>For now we know by <hi>this mans</hi> death, to some</l>
+               <l>A <hi>Life</hi> is not a <hi>Life,</hi> but <hi>martirdome.</hi>
+               </l>
+               <l>Fer every <hi>Cobler</hi> and <hi>mechanick</hi> man</l>
+               <l>Rising up <hi>King,</hi> turnes <hi>Dioclesian.</hi>
+               </l>
+               <l>You <hi>Sophisters,</hi> who search what <hi>fire</hi> shall <hi>burne.</hi>
+               </l>
+               <l>This worlds <hi>great fabrick</hi> and to ashes turne</l>
+               <l>The same; may well <hi>suspect</hi> that it may be</l>
+               <l>Th' <hi>aspiring flames</hi> of <hi>Subjects Loyaltie.</hi>
+               </l>
+               <l>May we not justly feare it? when <hi>each day</hi>
+               </l>
+               <l>The <hi>Rubrick,</hi> fills and sinne tis to obey.</l>
+               <l>VVitnes this <hi>Paradice</hi> of <hi>vulour,</hi> who</l>
+               <l>VVas <hi>wasted</hi> not by men, but <hi>serpents</hi> too,</l>
+               <l>He knew that <hi>Treason</hi> an <hi>Erratum</hi> was</l>
+               <l>Wanting an <hi>Index</hi> to expound the <hi>glosse.</hi>
+               </l>
+               <pb n="17" facs="tcp:115545:25"/>
+               <l>Thy <hi>death</hi> will strike into their hearts more <hi>feare</hi>
+               </l>
+               <l>Than <hi>Thunder</hi> in the <hi>trembling Indians</hi> eare.</l>
+               <l>
+                  <hi>Antiquities</hi> are new, what <hi>Annals</hi> boast</l>
+               <l>Of <hi>Champions,</hi> is reacted on our <hi>Coast.</hi>
+               </l>
+               <l>
+                  <hi>Romans</hi> may write of <hi>Scevola's</hi> great name.</l>
+               <l>Alas, once more he may shake hands with <hi>Fame.</hi>
+               </l>
+               <l>The three <hi>Horatij, Triumuirs</hi> of rage</l>
+               <l>In him were executed on our <hi>Stage.</hi>
+               </l>
+               <l>He is a true <hi>Pyrocles</hi> in renowne,</l>
+               <l>And pitie 'tis <hi>Dametas</hi> trode him downe.</l>
+               <l>He is our <hi>Sun,</hi> not to endanger eyes,</l>
+               <l>But to <hi>direct</hi> and <hi>teach</hi> us how to rise.</l>
+               <l>This act adopts him <hi>Son of Anacks</hi> brood:</l>
+               <l>They for their <hi>stature great,</hi> and he for <hi>good.</hi>
+               </l>
+               <l>
+                  <hi>Loyalties</hi> false, that <hi>glisters</hi> not like thine.</l>
+               <l>The <hi>Ore's</hi> not knowne untill we sound the <hi>Mine.</hi>
+               </l>
+               <l>Vp, up, my <hi>drowsie soule,</hi> and tell the world</l>
+               <l>The <hi>giddie headed multitude</hi> have hurld</l>
+               <l>Away their <hi>riches, Strafford, Laud, This one,</hi>
+               </l>
+               <l>Ordaine another <hi>Constellation.</hi>
+               </l>
+               <l>And as the same sword those <hi>horrid Traitors</hi> kild</l>
+               <l>VVho had the blood of <hi>Royall Caesar</hi> spilld.</l>
+               <l>Soe may thy <hi>murderers</hi> die, the same <hi>string</hi> be</l>
+               <l>The <hi>Engine</hi> to their wis<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t <hi>Catastrophe.</hi>
+               </l>
+               <l>Were the <hi>soules transmigration</hi> true, I <hi>might</hi>
+               </l>
+               <l>Think that the two <hi>Phitaeni's</hi> soules did light</l>
+               <l>Within thy <hi>brest,</hi> who being but <hi>one,</hi> didst doe</l>
+               <l>As much as they for <hi>Carthage</hi> wrought, <hi>though two</hi>
+               </l>
+               <l>
+                  <hi>Loyalty</hi> kindles <hi>Calentures</hi> in some,</l>
+               <pb n="18" facs="tcp:115545:26"/>
+               <l>And is to others sleepie <hi>opium.</hi>
+               </l>
+               <l>Their <hi>Names</hi> shall perish in a <hi>Lethargie:</hi>
+               </l>
+               <l>Thy <hi>reputation</hi> shall be <hi>extasie.</hi>
+               </l>
+               <l>Tis safe to give the <hi>dead</hi> their owne, noe feare</l>
+               <l>Of <hi>Sequestrators</hi> or <hi>Committees</hi> there.</l>
+               <l>Come let them boast their <hi>Sts.</hi> thy soule shal see</l>
+               <l>A <hi>small inch</hi> measures not <hi>infinity.</hi>
+               </l>
+               <l>Thou couldst despise bold <hi>Sphorsa</hi> and his nation.</l>
+               <l>And now <hi>Rebellion</hi> is not <hi>Reformation:</hi>
+               </l>
+               <l>
+                  <hi>Borgia</hi> to thee w s <hi>Devill:</hi> and we may</l>
+               <l>See thou hadst rather <hi>perish,</hi> then <hi>betray.</hi>
+               </l>
+               <l>Although no <hi>Deane</hi> or <hi>Canon,</hi> thou mayst be</l>
+               <l>To our <hi>Religion</hi> good <hi>pologie.</hi>
+               </l>
+               <l>Thy <hi>Death</hi> a <hi>Sermon</hi> was: oh I could spend</l>
+               <l>My age in <hi>commenting</hi> his glorious <hi>end.</hi>
+               </l>
+               <l>
+                  <hi>Ashes of Loyall men</hi> are like the <hi>snuffe</hi>
+               </l>
+               <l>Of a <hi>perfumd wax-candle, strong inough</hi>
+               </l>
+               <l>To <hi>recompence the losse of light with th' sent</hi>
+               </l>
+               <l>O<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <hi>fragrant odours,</hi> left to raise content.</l>
+               <l>We will view thee as <hi>Tamberlaine</hi> read ore</l>
+               <l>
+                  <hi>Heroick deeds;</hi> not that we may deplore</l>
+               <l>
+                  <hi>Thy losse,</hi> but by example to inspire</l>
+               <l>Our brests with <hi>Sols,</hi> not with <hi>Promethius' fire.</hi>
+               </l>
+               <l>
+                  <hi>Iustice,</hi> lend me thy <hi>Sword</hi> and I'le restore</l>
+               <l>To thee <hi>thy eyes</hi> as perfect as before</l>
+               <l>Who would in <hi>corners snort</hi> away their lives,</l>
+               <l>Or spend their <hi>oyle</hi> upon <hi>Luxurious Wives?</hi>
+               </l>
+               <l>When he finds <hi>Charles dethroned,</hi> when <hi>vertue's</hi> made</l>
+               <l>The step we unto <hi>faelix scelus</hi> wade.</l>
+               <pb n="19" facs="tcp:115545:26"/>
+               <l>I am turnd <hi>Anabaptist</hi> in my <hi>teares,</hi>
+               </l>
+               <l>And overprest with <hi>greefe,</hi> as they with <hi>feares.</hi>
+               </l>
+               <l>Were all the <hi>Engines</hi> of tormenting <hi>Hell</hi>
+               </l>
+               <l>Fixt to my tender <hi>Limbes,</hi> I would not fell</l>
+               <l>My <hi>Kings</hi> blest thoughts, like <hi>Scots,</hi> but be content</l>
+               <l>My brest should harbour them for <hi>ornament.</hi>
+               </l>
+               <l>Twas <hi>Constancie</hi> made <hi>Roman Vertues</hi> last.</l>
+               <l>The mettall weares no <hi>forme</hi> until its <hi>cast.</hi>
+               </l>
+               <l>
+                  <hi>Beasts</hi> wrong the <hi>innocent,</hi> not <hi>men;</hi> conclude</l>
+               <l>Thou injur'd wert by th' <hi>Hydra multitude.</hi>
+               </l>
+               <l>Thou art noe <hi>Meteor</hi> or wandring <hi>Starre,</hi>
+               </l>
+               <l>No <hi>nine dayes wonder,</hi> that we heare from farre.</l>
+               <l>But a <hi>fixt Starre</hi> within the hearts of all</l>
+               <l>Those who account <hi>Treason Apocrypall.</hi>
+               </l>
+               <l>And as in <hi>Iulia's monument</hi> I heare</l>
+               <l>One <hi>Lampe</hi> held out the 1500th. <hi>yeare.</hi>
+               </l>
+               <l>So may this <hi>noble act</hi> remaine, that we</l>
+               <l>Speaking of <hi>valour,</hi> may <hi>eternize</hi> thee.</l>
+               <l>He that goes <hi>free</hi> when as his <hi>King's confin'd,</hi>
+               </l>
+               <l>Not greeving, hath the <hi>Divell</hi> in his mind.</l>
+               <l>Were <hi>Alexander</hi> but a live, to know</l>
+               <l>Thy <hi>martyerdome,</hi> all <hi>Conquests</hi> hee'd forgoe,</l>
+               <l>To owne this <hi>Pearle,</hi> more <hi>orient</hi> to the eyes,</l>
+               <l>Cause <hi>Honor</hi> tur<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>es the <hi>ballance</hi> of the prize.</l>
+               <l>No <hi>darknes</hi> shades his deeds from common view,</l>
+               <l>His soule sent forth a <hi>lustre</hi> lights him through.</l>
+               <l>No <hi>Pits</hi> or <hi>Caves,</hi> no <hi>Lanthornd Faux</hi> is here.</l>
+               <l>The <hi>day</hi> was not more innocent and <hi>cleare</hi>
+               </l>
+               <l>The <hi>Drum</hi> did sound thy <hi>Fame, they victors</hi> were</l>
+               <pb n="20" facs="tcp:115545:27"/>
+               <l>But <hi>thou</hi> shalt <hi>triumph</hi> in a Consulls Chaire.</l>
+               <l>Though <hi>narrow</hi> was thy <hi>passage,</hi> I dare say</l>
+               <l>To <hi>spangled Heaven</hi> thou trodst the <hi>Kings high way</hi>
+               </l>
+               <l>Come <hi>Cavaliers,</hi> put on your brest-plates then:</l>
+               <l>
+                  <hi>Courage brave Lads,</hi> approve your selves like men.</l>
+               <l>Since he is <hi>murderd, steel your thoughts,</hi> let brave</l>
+               <l>
+                  <hi>undaunted browes</hi> raise <hi>goodnesse</hi> from her <hi>grave</hi>
+               </l>
+               <l>To ayd your undertakings: <hi>Larum Fate</hi>
+               </l>
+               <l>And tell him hee's too <hi>slow</hi> to help our <hi>State.</hi>
+               </l>
+               <l>Could I command the <hi>Lightening,</hi> I would send</l>
+               <l>These daring <hi>Gyants</hi> to their dismall end.</l>
+               <l>Prove <hi>Cicero's</hi> to these false <hi>Catalines.</hi>
+               </l>
+               <l>Although your <hi>purses emptie be,</hi> y' have <hi>Mines</hi>
+               </l>
+               <l>Of <hi>faith unfathomd,</hi> which can never passe</l>
+               <l>The triall of a <hi>false Geneva Glasse.</hi>
+               </l>
+               <l>Yee are no <hi>Erra Paters Pupills,</hi> yee,</l>
+               <l>Nor have yee yet profest <hi>Astrologie.</hi>
+               </l>
+               <l>That every <hi>accent</hi> spinnes a doubtfull <hi>threed.</hi>
+               </l>
+               <l>No <hi>clowded visage,</hi> but an <hi>open head.</hi>
+               </l>
+               <l>It is <hi>their words</hi> are <hi>aenigmatticall,</hi>
+               </l>
+               <l>And doubtfull as an <hi>Oracle</hi> to all.</l>
+               <l>
+                  <hi>Murderd,</hi> the word sounds <hi>hoarse,</hi> and being dead</l>
+               <l>
+                  <hi>Barr'd</hi> the <hi>p<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rmission</hi> to be <hi>sepulchred?</hi>
+               </l>
+               <l>His <hi>limbs</hi> are <hi>scatterd:</hi> true, but <hi>Birds</hi> shall flie</l>
+               <l>And as they bring them, <hi>sing his Elegie.</hi>
+               </l>
+               <l>What though his owne are <hi>gone?</hi> his verie <hi>Name</hi>
+               </l>
+               <l>Will borrow <hi>Leggs</hi> inough to beare his <hi>Fame.</hi>
+               </l>
+               <l>
+                  <hi>Heaven</hi> shall seeme thy <hi>Temple,</hi> hung a new</l>
+               <l>With <hi>black,</hi> the <hi>Starres</hi> are thy <hi>Torch-bearers</hi> too,</l>
+               <pb n="21" facs="tcp:115545:27"/>
+               <l>
+                  <hi>Thrones</hi> of our <hi>Verses</hi> shall to that height rise,</l>
+               <l>That on their feet thou mayst ascend the <hi>Skies:</hi>
+               </l>
+               <l>For <hi>Truth</hi> thy <hi>Cynosura</hi> was to guide</l>
+               <l>Thy soule upon the billowes of this <hi>Tide.</hi>
+               </l>
+               <l>But let thy <hi>Ghost</hi> haunt them who lent an hand</l>
+               <l>Before twas time, to bring thee to the <hi>Land.</hi>
+               </l>
+               <closer>
+                  <signed>C. C</signed>
+               </closer>
+            </div>
+            <div type="part">
+               <head>THE TRIVMPH OP LOYALTY</head>
+               <l>TAke downe the <hi>sable Blacks</hi> againe, and dry,</l>
+               <l>The <hi>Christall currents</hi> of the <hi>mournfull eye</hi>
+               </l>
+               <l>Unles you mean a <hi>Iordan</hi> thence shall <hi>spring,</hi>
+               </l>
+               <l>There to <hi>baptize</hi> him <hi>martyr,</hi> for his <hi>King.</hi>
+               </l>
+               <l>But that's already done in his <hi>owne blood:</hi>
+               </l>
+               <l>Shed for his <hi>King</hi> for <hi>Loyalty</hi> and <hi>God.</hi>
+               </l>
+               <l>Burley s not <hi>dead,</hi> but <hi>born,</hi> and therefore wee</l>
+               <l>With <hi>Ioy</hi> should celebrate's <hi>Nativity.</hi>
+               </l>
+               <l>Me thinkes <hi>A Christian still is in the Wombe,</hi>
+               </l>
+               <l>
+                  <hi>Vntill he be brought forth by martyrdome.</hi>
+               </l>
+               <l>
+                  <hi>Death is our life, and persecution's</hi>
+               </l>
+               <l>
+                  <hi>The churches throwes, delivers her of sonnes:</hi>
+               </l>
+               <l>Of <hi>Sonnes</hi> and <hi>heyres,</hi> at <hi>age as soon as born:</hi>
+               </l>
+               <l>
+                  <hi>Heyres to immortall Crowns,</hi> and shall we <hi>mourn;</hi>
+               </l>
+               <l>No, lets <hi>rejoyce</hi> and <hi>triumph, blesse; the day,</hi>
+               </l>
+               <l>Wherein this <hi>happy issue</hi> found the way,</l>
+               <l>Out of this <hi>darkesome prison</hi> to <hi>that light,</hi>
+               </l>
+               <l>And <hi>liberty,</hi> where <hi>faith</hi> is turn'd to <hi>sight.</hi>
+               </l>
+               <pb n="22" facs="tcp:115545:28"/>
+               <l>The world mistakes; <hi>our times of troubles be</hi>
+               </l>
+               <l>
+                  <hi>The teeming times of christianity:</hi>
+               </l>
+               <l>
+                  <hi>The church is youthfull than and doth increase:</hi>
+               </l>
+               <l>
+                  <hi>Shee's old and Barren in the, times of peace:</hi>
+               </l>
+               <l>
+                  <hi>Her age</hi> now seemes to be <hi>renewed</hi> than:</l>
+               <l>A <hi>Nero</hi> or a <hi>Dioclesian,</hi>
+               </l>
+               <l>Of Old, were but her <hi>midwives:</hi> and <hi>Fox</hi> sayes</l>
+               <l>That such was <hi>mary</hi> in some <hi>latter dayes.</hi>
+               </l>
+               <l>
+                  <hi>But these were Kings and Queens:</hi> How comes the <hi>state</hi>
+               </l>
+               <l>O'th churches <hi>Birthbed</hi> now thus to abate:</l>
+               <l>That every <hi>Vassall</hi> now should dare to be</l>
+               <l>A <hi>Bold Intruder</hi> to this <hi>midwifery?</hi>
+               </l>
+               <l>A <hi>Savage Lawyer,</hi> with his <hi>rusty Steele,</hi>
+               </l>
+               <l>Are these fit <hi>instruments</hi> to cause her <hi>feele,</hi>
+               </l>
+               <l>Her <hi>child birth</hi> throbs? to bring a <hi>Burley</hi> forth</l>
+               <l>So <hi>Brave a Stemme</hi> of <hi>loyalty</hi> and <hi>worth.</hi>
+               </l>
+               <l>
+                  <hi>Burley:</hi> whose <hi>Spirits</hi> could not <hi>rest</hi> to see</l>
+               <l>
+                  <hi>Slaves trample on imprisoned Majesty?</hi>
+               </l>
+               <l>
+                  <hi>Burley</hi> that durst <hi>oppos<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e rebellion,</hi>
+               </l>
+               <l>When it was <hi>gotten up into the throne?</hi>
+               </l>
+               <l>
+                  <hi>Burley, Great Charles his second,</hi> for whose <hi>right</hi>
+               </l>
+               <l>He challengd <hi>Victor Treason</hi> to the <hi>fight.</hi>
+               </l>
+               <l>And <hi>overcame, by dying</hi> in the <hi>cause:</hi>
+               </l>
+               <l>
+                  <hi>Blood is triumphant when it runnes for Lawes.</hi>
+               </l>
+               <l>
+                  <hi>Avaunt</hi> your <hi>sordid singers!</hi> Touch no more</l>
+               <l>The <hi>Mother</hi> or her <hi>Children:</hi> from this <hi>Gore</hi>
+               </l>
+               <l>Our <hi>Ioy</hi> doth not <hi>absolve you,</hi> nor his <hi>gaine?</hi>
+               </l>
+               <l>He hath the <hi>Honor,</hi> but you have the <hi>staine.</hi>
+               </l>
+               <l>Such is the <hi>riddle</hi> and the <hi>mystery</hi>
+               </l>
+               <pb n="23" facs="tcp:115545:28"/>
+               <l>Of your <hi>Vnjust, Vnchristian cruelty.</hi>
+               </l>
+               <l>
+                  <hi>That though he lives, yet still it is most true;</hi>
+               </l>
+               <l>
+                  <hi>Burley that lives was murdered by you.</hi>
+               </l>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
